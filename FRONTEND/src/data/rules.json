@@ -1,0 +1,1191 @@
+[
+  {
+    "id": "rule-001",
+    "rule": "GREEN REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER -> PINK REGENCY TEACUP AND SAUCER",
+    "antecedents": [
+      "GREEN REGENCY TEACUP AND SAUCER",
+      "ROSES REGENCY TEACUP AND SAUCER"
+    ],
+    "consequents": [
+      "PINK REGENCY TEACUP AND SAUCER"
+    ],
+    "support": 0.026096,
+    "supportPercentage": 2.61,
+    "confidence": 0.704514,
+    "confidencePercentage": 70.45,
+    "lift": 18.89,
+    "transactionCount": 515,
+    "itemCount": 3,
+    "category": "Vintage Regency Dining",
+    "significance": "High",
+    "businessAction": "Bundle 'GREEN REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER' with 'PINK REGENCY TEACUP AND SAUCER' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-002",
+    "rule": "PINK REGENCY TEACUP AND SAUCER -> GREEN REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER",
+    "antecedents": [
+      "PINK REGENCY TEACUP AND SAUCER"
+    ],
+    "consequents": [
+      "GREEN REGENCY TEACUP AND SAUCER",
+      "ROSES REGENCY TEACUP AND SAUCER"
+    ],
+    "support": 0.026096,
+    "supportPercentage": 2.61,
+    "confidence": 0.699728,
+    "confidencePercentage": 69.97,
+    "lift": 18.89,
+    "transactionCount": 515,
+    "itemCount": 3,
+    "category": "Vintage Regency Dining",
+    "significance": "High",
+    "businessAction": "Bundle 'PINK REGENCY TEACUP AND SAUCER' with 'GREEN REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-003",
+    "rule": "GREEN REGENCY TEACUP AND SAUCER -> PINK REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER",
+    "antecedents": [
+      "GREEN REGENCY TEACUP AND SAUCER"
+    ],
+    "consequents": [
+      "PINK REGENCY TEACUP AND SAUCER",
+      "ROSES REGENCY TEACUP AND SAUCER"
+    ],
+    "support": 0.026096,
+    "supportPercentage": 2.61,
+    "confidence": 0.528205,
+    "confidencePercentage": 52.82,
+    "lift": 18.29,
+    "transactionCount": 515,
+    "itemCount": 3,
+    "category": "Vintage Regency Dining",
+    "significance": "High",
+    "businessAction": "Bundle 'GREEN REGENCY TEACUP AND SAUCER' with 'PINK REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-004",
+    "rule": "PINK REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER -> GREEN REGENCY TEACUP AND SAUCER",
+    "antecedents": [
+      "PINK REGENCY TEACUP AND SAUCER",
+      "ROSES REGENCY TEACUP AND SAUCER"
+    ],
+    "consequents": [
+      "GREEN REGENCY TEACUP AND SAUCER"
+    ],
+    "support": 0.026096,
+    "supportPercentage": 2.61,
+    "confidence": 0.903509,
+    "confidencePercentage": 90.35,
+    "lift": 18.29,
+    "transactionCount": 515,
+    "itemCount": 3,
+    "category": "Vintage Regency Dining",
+    "significance": "High",
+    "businessAction": "Bundle 'PINK REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER' with 'GREEN REGENCY TEACUP AND SAUCER' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-005",
+    "rule": "PINK REGENCY TEACUP AND SAUCER -> GREEN REGENCY TEACUP AND SAUCER",
+    "antecedents": [
+      "PINK REGENCY TEACUP AND SAUCER"
+    ],
+    "consequents": [
+      "GREEN REGENCY TEACUP AND SAUCER"
+    ],
+    "support": 0.030656,
+    "supportPercentage": 3.07,
+    "confidence": 0.822011,
+    "confidencePercentage": 82.2,
+    "lift": 16.64,
+    "transactionCount": 605,
+    "itemCount": 2,
+    "category": "Vintage Regency Dining",
+    "significance": "High",
+    "businessAction": "Bundle 'PINK REGENCY TEACUP AND SAUCER' with 'GREEN REGENCY TEACUP AND SAUCER' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-006",
+    "rule": "GREEN REGENCY TEACUP AND SAUCER -> PINK REGENCY TEACUP AND SAUCER",
+    "antecedents": [
+      "GREEN REGENCY TEACUP AND SAUCER"
+    ],
+    "consequents": [
+      "PINK REGENCY TEACUP AND SAUCER"
+    ],
+    "support": 0.030656,
+    "supportPercentage": 3.07,
+    "confidence": 0.620513,
+    "confidencePercentage": 62.05,
+    "lift": 16.64,
+    "transactionCount": 605,
+    "itemCount": 2,
+    "category": "Vintage Regency Dining",
+    "significance": "High",
+    "businessAction": "Bundle 'GREEN REGENCY TEACUP AND SAUCER' with 'PINK REGENCY TEACUP AND SAUCER' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-007",
+    "rule": "ROSES REGENCY TEACUP AND SAUCER -> GREEN REGENCY TEACUP AND SAUCER, PINK REGENCY TEACUP AND SAUCER",
+    "antecedents": [
+      "ROSES REGENCY TEACUP AND SAUCER"
+    ],
+    "consequents": [
+      "GREEN REGENCY TEACUP AND SAUCER",
+      "PINK REGENCY TEACUP AND SAUCER"
+    ],
+    "support": 0.026096,
+    "supportPercentage": 2.61,
+    "confidence": 0.508391,
+    "confidencePercentage": 50.84,
+    "lift": 16.58,
+    "transactionCount": 515,
+    "itemCount": 3,
+    "category": "Vintage Regency Dining",
+    "significance": "High",
+    "businessAction": "Bundle 'ROSES REGENCY TEACUP AND SAUCER' with 'GREEN REGENCY TEACUP AND SAUCER, PINK REGENCY TEACUP AND SAUCER' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-008",
+    "rule": "GREEN REGENCY TEACUP AND SAUCER, PINK REGENCY TEACUP AND SAUCER -> ROSES REGENCY TEACUP AND SAUCER",
+    "antecedents": [
+      "GREEN REGENCY TEACUP AND SAUCER",
+      "PINK REGENCY TEACUP AND SAUCER"
+    ],
+    "consequents": [
+      "ROSES REGENCY TEACUP AND SAUCER"
+    ],
+    "support": 0.026096,
+    "supportPercentage": 2.61,
+    "confidence": 0.85124,
+    "confidencePercentage": 85.12,
+    "lift": 16.58,
+    "transactionCount": 515,
+    "itemCount": 3,
+    "category": "Vintage Regency Dining",
+    "significance": "High",
+    "businessAction": "Bundle 'GREEN REGENCY TEACUP AND SAUCER, PINK REGENCY TEACUP AND SAUCER' with 'ROSES REGENCY TEACUP AND SAUCER' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-009",
+    "rule": "GARDENERS KNEELING PAD CUP OF TEA -> GARDENERS KNEELING PAD KEEP CALM",
+    "antecedents": [
+      "GARDENERS KNEELING PAD CUP OF TEA"
+    ],
+    "consequents": [
+      "GARDENERS KNEELING PAD KEEP CALM"
+    ],
+    "support": 0.027565,
+    "supportPercentage": 2.76,
+    "confidence": 0.721485,
+    "confidencePercentage": 72.15,
+    "lift": 15.73,
+    "transactionCount": 544,
+    "itemCount": 2,
+    "category": "Garden & Home Living",
+    "significance": "High",
+    "businessAction": "Bundle 'GARDENERS KNEELING PAD CUP OF TEA' with 'GARDENERS KNEELING PAD KEEP CALM' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-010",
+    "rule": "GARDENERS KNEELING PAD KEEP CALM -> GARDENERS KNEELING PAD CUP OF TEA",
+    "antecedents": [
+      "GARDENERS KNEELING PAD KEEP CALM"
+    ],
+    "consequents": [
+      "GARDENERS KNEELING PAD CUP OF TEA"
+    ],
+    "support": 0.027565,
+    "supportPercentage": 2.76,
+    "confidence": 0.601105,
+    "confidencePercentage": 60.11,
+    "lift": 15.73,
+    "transactionCount": 544,
+    "itemCount": 2,
+    "category": "Garden & Home Living",
+    "significance": "High",
+    "businessAction": "Bundle 'GARDENERS KNEELING PAD KEEP CALM' with 'GARDENERS KNEELING PAD CUP OF TEA' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-011",
+    "rule": "ROSES REGENCY TEACUP AND SAUCER -> PINK REGENCY TEACUP AND SAUCER",
+    "antecedents": [
+      "ROSES REGENCY TEACUP AND SAUCER"
+    ],
+    "consequents": [
+      "PINK REGENCY TEACUP AND SAUCER"
+    ],
+    "support": 0.028883,
+    "supportPercentage": 2.89,
+    "confidence": 0.562685,
+    "confidencePercentage": 56.27,
+    "lift": 15.09,
+    "transactionCount": 570,
+    "itemCount": 2,
+    "category": "Vintage Regency Dining",
+    "significance": "High",
+    "businessAction": "Bundle 'ROSES REGENCY TEACUP AND SAUCER' with 'PINK REGENCY TEACUP AND SAUCER' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-012",
+    "rule": "PINK REGENCY TEACUP AND SAUCER -> ROSES REGENCY TEACUP AND SAUCER",
+    "antecedents": [
+      "PINK REGENCY TEACUP AND SAUCER"
+    ],
+    "consequents": [
+      "ROSES REGENCY TEACUP AND SAUCER"
+    ],
+    "support": 0.028883,
+    "supportPercentage": 2.89,
+    "confidence": 0.774457,
+    "confidencePercentage": 77.45,
+    "lift": 15.09,
+    "transactionCount": 570,
+    "itemCount": 2,
+    "category": "Vintage Regency Dining",
+    "significance": "High",
+    "businessAction": "Bundle 'PINK REGENCY TEACUP AND SAUCER' with 'ROSES REGENCY TEACUP AND SAUCER' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-013",
+    "rule": "GREEN REGENCY TEACUP AND SAUCER -> ROSES REGENCY TEACUP AND SAUCER",
+    "antecedents": [
+      "GREEN REGENCY TEACUP AND SAUCER"
+    ],
+    "consequents": [
+      "ROSES REGENCY TEACUP AND SAUCER"
+    ],
+    "support": 0.037041,
+    "supportPercentage": 3.7,
+    "confidence": 0.749744,
+    "confidencePercentage": 74.97,
+    "lift": 14.61,
+    "transactionCount": 731,
+    "itemCount": 2,
+    "category": "Vintage Regency Dining",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'GREEN REGENCY TEACUP AND SAUCER' with 'ROSES REGENCY TEACUP AND SAUCER' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-014",
+    "rule": "ROSES REGENCY TEACUP AND SAUCER -> GREEN REGENCY TEACUP AND SAUCER",
+    "antecedents": [
+      "ROSES REGENCY TEACUP AND SAUCER"
+    ],
+    "consequents": [
+      "GREEN REGENCY TEACUP AND SAUCER"
+    ],
+    "support": 0.037041,
+    "supportPercentage": 3.7,
+    "confidence": 0.721619,
+    "confidencePercentage": 72.16,
+    "lift": 14.61,
+    "transactionCount": 731,
+    "itemCount": 2,
+    "category": "Vintage Regency Dining",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'ROSES REGENCY TEACUP AND SAUCER' with 'GREEN REGENCY TEACUP AND SAUCER' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-015",
+    "rule": "SPACEBOY LUNCH BOX -> DOLLY GIRL LUNCH BOX",
+    "antecedents": [
+      "SPACEBOY LUNCH BOX"
+    ],
+    "consequents": [
+      "DOLLY GIRL LUNCH BOX"
+    ],
+    "support": 0.026602,
+    "supportPercentage": 2.66,
+    "confidence": 0.593891,
+    "confidencePercentage": 59.39,
+    "lift": 14.12,
+    "transactionCount": 525,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'SPACEBOY LUNCH BOX' with 'DOLLY GIRL LUNCH BOX' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-016",
+    "rule": "DOLLY GIRL LUNCH BOX -> SPACEBOY LUNCH BOX",
+    "antecedents": [
+      "DOLLY GIRL LUNCH BOX"
+    ],
+    "consequents": [
+      "SPACEBOY LUNCH BOX"
+    ],
+    "support": 0.026602,
+    "supportPercentage": 2.66,
+    "confidence": 0.63253,
+    "confidencePercentage": 63.25,
+    "lift": 14.12,
+    "transactionCount": 525,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'DOLLY GIRL LUNCH BOX' with 'SPACEBOY LUNCH BOX' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-017",
+    "rule": "JUMBO BAG PEARS -> JUMBO BAG APPLES",
+    "antecedents": [
+      "JUMBO BAG PEARS"
+    ],
+    "consequents": [
+      "JUMBO BAG APPLES"
+    ],
+    "support": 0.020319,
+    "supportPercentage": 2.03,
+    "confidence": 0.6843,
+    "confidencePercentage": 68.43,
+    "lift": 14.01,
+    "transactionCount": 401,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'JUMBO BAG PEARS' with 'JUMBO BAG APPLES' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-018",
+    "rule": "RED RETROSPOT CHARLOTTE BAG -> CHARLOTTE BAG PINK POLKADOT",
+    "antecedents": [
+      "RED RETROSPOT CHARLOTTE BAG"
+    ],
+    "consequents": [
+      "CHARLOTTE BAG PINK POLKADOT"
+    ],
+    "support": 0.026349,
+    "supportPercentage": 2.63,
+    "confidence": 0.505837,
+    "confidencePercentage": 50.58,
+    "lift": 13.53,
+    "transactionCount": 520,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'RED RETROSPOT CHARLOTTE BAG' with 'CHARLOTTE BAG PINK POLKADOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-019",
+    "rule": "CHARLOTTE BAG PINK POLKADOT -> RED RETROSPOT CHARLOTTE BAG",
+    "antecedents": [
+      "CHARLOTTE BAG PINK POLKADOT"
+    ],
+    "consequents": [
+      "RED RETROSPOT CHARLOTTE BAG"
+    ],
+    "support": 0.026349,
+    "supportPercentage": 2.63,
+    "confidence": 0.704607,
+    "confidencePercentage": 70.46,
+    "lift": 13.53,
+    "transactionCount": 520,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'CHARLOTTE BAG PINK POLKADOT' with 'RED RETROSPOT CHARLOTTE BAG' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-020",
+    "rule": "STRAWBERRY CHARLOTTE BAG -> WOODLAND CHARLOTTE BAG",
+    "antecedents": [
+      "STRAWBERRY CHARLOTTE BAG"
+    ],
+    "consequents": [
+      "WOODLAND CHARLOTTE BAG"
+    ],
+    "support": 0.020471,
+    "supportPercentage": 2.05,
+    "confidence": 0.564246,
+    "confidencePercentage": 56.42,
+    "lift": 13.46,
+    "transactionCount": 404,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'STRAWBERRY CHARLOTTE BAG' with 'WOODLAND CHARLOTTE BAG' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-021",
+    "rule": "STRAWBERRY CHARLOTTE BAG -> CHARLOTTE BAG SUKI DESIGN",
+    "antecedents": [
+      "STRAWBERRY CHARLOTTE BAG"
+    ],
+    "consequents": [
+      "CHARLOTTE BAG SUKI DESIGN"
+    ],
+    "support": 0.020877,
+    "supportPercentage": 2.09,
+    "confidence": 0.575419,
+    "confidencePercentage": 57.54,
+    "lift": 12.98,
+    "transactionCount": 412,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'STRAWBERRY CHARLOTTE BAG' with 'CHARLOTTE BAG SUKI DESIGN' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-022",
+    "rule": "STRAWBERRY CHARLOTTE BAG -> RED RETROSPOT CHARLOTTE BAG",
+    "antecedents": [
+      "STRAWBERRY CHARLOTTE BAG"
+    ],
+    "consequents": [
+      "RED RETROSPOT CHARLOTTE BAG"
+    ],
+    "support": 0.024424,
+    "supportPercentage": 2.44,
+    "confidence": 0.673184,
+    "confidencePercentage": 67.32,
+    "lift": 12.92,
+    "transactionCount": 482,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'STRAWBERRY CHARLOTTE BAG' with 'RED RETROSPOT CHARLOTTE BAG' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-023",
+    "rule": "ALARM CLOCK BAKELIKE GREEN -> ALARM CLOCK BAKELIKE RED",
+    "antecedents": [
+      "ALARM CLOCK BAKELIKE GREEN"
+    ],
+    "consequents": [
+      "ALARM CLOCK BAKELIKE RED"
+    ],
+    "support": 0.032075,
+    "supportPercentage": 3.21,
+    "confidence": 0.654602,
+    "confidencePercentage": 65.46,
+    "lift": 12.58,
+    "transactionCount": 633,
+    "itemCount": 2,
+    "category": "Retro Clocks & Decor",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'ALARM CLOCK BAKELIKE GREEN' with 'ALARM CLOCK BAKELIKE RED' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-024",
+    "rule": "ALARM CLOCK BAKELIKE RED -> ALARM CLOCK BAKELIKE GREEN",
+    "antecedents": [
+      "ALARM CLOCK BAKELIKE RED"
+    ],
+    "consequents": [
+      "ALARM CLOCK BAKELIKE GREEN"
+    ],
+    "support": 0.032075,
+    "supportPercentage": 3.21,
+    "confidence": 0.616358,
+    "confidencePercentage": 61.64,
+    "lift": 12.58,
+    "transactionCount": 633,
+    "itemCount": 2,
+    "category": "Retro Clocks & Decor",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'ALARM CLOCK BAKELIKE RED' with 'ALARM CLOCK BAKELIKE GREEN' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-025",
+    "rule": "CHARLOTTE BAG PINK POLKADOT -> CHARLOTTE BAG SUKI DESIGN",
+    "antecedents": [
+      "CHARLOTTE BAG PINK POLKADOT"
+    ],
+    "consequents": [
+      "CHARLOTTE BAG SUKI DESIGN"
+    ],
+    "support": 0.020674,
+    "supportPercentage": 2.07,
+    "confidence": 0.552846,
+    "confidencePercentage": 55.28,
+    "lift": 12.47,
+    "transactionCount": 408,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'CHARLOTTE BAG PINK POLKADOT' with 'CHARLOTTE BAG SUKI DESIGN' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-026",
+    "rule": "WOODLAND CHARLOTTE BAG -> CHARLOTTE BAG SUKI DESIGN",
+    "antecedents": [
+      "WOODLAND CHARLOTTE BAG"
+    ],
+    "consequents": [
+      "CHARLOTTE BAG SUKI DESIGN"
+    ],
+    "support": 0.022903,
+    "supportPercentage": 2.29,
+    "confidence": 0.546554,
+    "confidencePercentage": 54.66,
+    "lift": 12.33,
+    "transactionCount": 452,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'WOODLAND CHARLOTTE BAG' with 'CHARLOTTE BAG SUKI DESIGN' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-027",
+    "rule": "CHARLOTTE BAG SUKI DESIGN -> WOODLAND CHARLOTTE BAG",
+    "antecedents": [
+      "CHARLOTTE BAG SUKI DESIGN"
+    ],
+    "consequents": [
+      "WOODLAND CHARLOTTE BAG"
+    ],
+    "support": 0.022903,
+    "supportPercentage": 2.29,
+    "confidence": 0.516571,
+    "confidencePercentage": 51.66,
+    "lift": 12.33,
+    "transactionCount": 452,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'CHARLOTTE BAG SUKI DESIGN' with 'WOODLAND CHARLOTTE BAG' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-028",
+    "rule": "WOODLAND CHARLOTTE BAG -> RED RETROSPOT CHARLOTTE BAG",
+    "antecedents": [
+      "WOODLAND CHARLOTTE BAG"
+    ],
+    "consequents": [
+      "RED RETROSPOT CHARLOTTE BAG"
+    ],
+    "support": 0.025488,
+    "supportPercentage": 2.55,
+    "confidence": 0.608222,
+    "confidencePercentage": 60.82,
+    "lift": 11.68,
+    "transactionCount": 503,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'WOODLAND CHARLOTTE BAG' with 'RED RETROSPOT CHARLOTTE BAG' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-029",
+    "rule": "PAPER CHAIN KIT VINTAGE CHRISTMAS -> PAPER CHAIN KIT 50'S CHRISTMAS",
+    "antecedents": [
+      "PAPER CHAIN KIT VINTAGE CHRISTMAS"
+    ],
+    "consequents": [
+      "PAPER CHAIN KIT 50'S CHRISTMAS"
+    ],
+    "support": 0.027616,
+    "supportPercentage": 2.76,
+    "confidence": 0.67201,
+    "confidencePercentage": 67.2,
+    "lift": 11.6,
+    "transactionCount": 545,
+    "itemCount": 2,
+    "category": "General",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'PAPER CHAIN KIT VINTAGE CHRISTMAS' with 'PAPER CHAIN KIT 50'S CHRISTMAS' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-030",
+    "rule": "ALARM CLOCK BAKELIKE PINK -> ALARM CLOCK BAKELIKE RED",
+    "antecedents": [
+      "ALARM CLOCK BAKELIKE PINK"
+    ],
+    "consequents": [
+      "ALARM CLOCK BAKELIKE RED"
+    ],
+    "support": 0.023005,
+    "supportPercentage": 2.3,
+    "confidence": 0.598155,
+    "confidencePercentage": 59.82,
+    "lift": 11.49,
+    "transactionCount": 454,
+    "itemCount": 2,
+    "category": "Retro Clocks & Decor",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'ALARM CLOCK BAKELIKE PINK' with 'ALARM CLOCK BAKELIKE RED' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-031",
+    "rule": "CHARLOTTE BAG SUKI DESIGN -> RED RETROSPOT CHARLOTTE BAG",
+    "antecedents": [
+      "CHARLOTTE BAG SUKI DESIGN"
+    ],
+    "consequents": [
+      "RED RETROSPOT CHARLOTTE BAG"
+    ],
+    "support": 0.025589,
+    "supportPercentage": 2.56,
+    "confidence": 0.577143,
+    "confidencePercentage": 57.71,
+    "lift": 11.08,
+    "transactionCount": 505,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'CHARLOTTE BAG SUKI DESIGN' with 'RED RETROSPOT CHARLOTTE BAG' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-032",
+    "rule": "ALARM CLOCK BAKELIKE PINK -> ALARM CLOCK BAKELIKE GREEN",
+    "antecedents": [
+      "ALARM CLOCK BAKELIKE PINK"
+    ],
+    "consequents": [
+      "ALARM CLOCK BAKELIKE GREEN"
+    ],
+    "support": 0.020826,
+    "supportPercentage": 2.08,
+    "confidence": 0.541502,
+    "confidencePercentage": 54.15,
+    "lift": 11.05,
+    "transactionCount": 411,
+    "itemCount": 2,
+    "category": "Retro Clocks & Decor",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'ALARM CLOCK BAKELIKE PINK' with 'ALARM CLOCK BAKELIKE GREEN' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-033",
+    "rule": "WOODEN FRAME ANTIQUE WHITE -> WOODEN PICTURE FRAME WHITE FINISH",
+    "antecedents": [
+      "WOODEN FRAME ANTIQUE WHITE"
+    ],
+    "consequents": [
+      "WOODEN PICTURE FRAME WHITE FINISH"
+    ],
+    "support": 0.02716,
+    "supportPercentage": 2.72,
+    "confidence": 0.559499,
+    "confidencePercentage": 55.95,
+    "lift": 10.11,
+    "transactionCount": 536,
+    "itemCount": 2,
+    "category": "General",
+    "significance": "Moderate",
+    "businessAction": "Bundle 'WOODEN FRAME ANTIQUE WHITE' with 'WOODEN PICTURE FRAME WHITE FINISH' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-034",
+    "rule": "DOTCOM POSTAGE -> JUMBO STORAGE BAG SUKI",
+    "antecedents": [
+      "DOTCOM POSTAGE"
+    ],
+    "consequents": [
+      "JUMBO STORAGE BAG SUKI"
+    ],
+    "support": 0.020015,
+    "supportPercentage": 2.0,
+    "confidence": 0.55791,
+    "confidencePercentage": 55.79,
+    "lift": 9.35,
+    "transactionCount": 395,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'DOTCOM POSTAGE' with 'JUMBO STORAGE BAG SUKI' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-035",
+    "rule": "JUMBO BAG RED RETROSPOT, JUMBO STORAGE BAG SUKI -> JUMBO BAG PINK POLKADOT",
+    "antecedents": [
+      "JUMBO BAG RED RETROSPOT",
+      "JUMBO STORAGE BAG SUKI"
+    ],
+    "consequents": [
+      "JUMBO BAG PINK POLKADOT"
+    ],
+    "support": 0.020877,
+    "supportPercentage": 2.09,
+    "confidence": 0.571429,
+    "confidencePercentage": 57.14,
+    "lift": 9.31,
+    "transactionCount": 412,
+    "itemCount": 3,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO BAG RED RETROSPOT, JUMBO STORAGE BAG SUKI' with 'JUMBO BAG PINK POLKADOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-036",
+    "rule": "HEART OF WICKER LARGE -> HEART OF WICKER SMALL",
+    "antecedents": [
+      "HEART OF WICKER LARGE"
+    ],
+    "consequents": [
+      "HEART OF WICKER SMALL"
+    ],
+    "support": 0.024576,
+    "supportPercentage": 2.46,
+    "confidence": 0.528322,
+    "confidencePercentage": 52.83,
+    "lift": 8.83,
+    "transactionCount": 485,
+    "itemCount": 2,
+    "category": "General",
+    "significance": "Standard",
+    "businessAction": "Bundle 'HEART OF WICKER LARGE' with 'HEART OF WICKER SMALL' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-037",
+    "rule": "JUMBO BAG WOODLAND ANIMALS -> JUMBO STORAGE BAG SUKI",
+    "antecedents": [
+      "JUMBO BAG WOODLAND ANIMALS"
+    ],
+    "consequents": [
+      "JUMBO STORAGE BAG SUKI"
+    ],
+    "support": 0.022701,
+    "supportPercentage": 2.27,
+    "confidence": 0.52459,
+    "confidencePercentage": 52.46,
+    "lift": 8.79,
+    "transactionCount": 448,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO BAG WOODLAND ANIMALS' with 'JUMBO STORAGE BAG SUKI' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-038",
+    "rule": "JUMBO BAG PINK POLKADOT, JUMBO BAG RED RETROSPOT -> JUMBO STORAGE BAG SUKI",
+    "antecedents": [
+      "JUMBO BAG PINK POLKADOT",
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "consequents": [
+      "JUMBO STORAGE BAG SUKI"
+    ],
+    "support": 0.020877,
+    "supportPercentage": 2.09,
+    "confidence": 0.503053,
+    "confidencePercentage": 50.31,
+    "lift": 8.43,
+    "transactionCount": 412,
+    "itemCount": 3,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO BAG PINK POLKADOT, JUMBO BAG RED RETROSPOT' with 'JUMBO STORAGE BAG SUKI' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-039",
+    "rule": "60 TEATIME FAIRY CAKE CASES -> PACK OF 72 RETROSPOT CAKE CASES",
+    "antecedents": [
+      "60 TEATIME FAIRY CAKE CASES"
+    ],
+    "consequents": [
+      "PACK OF 72 RETROSPOT CAKE CASES"
+    ],
+    "support": 0.022042,
+    "supportPercentage": 2.2,
+    "confidence": 0.545113,
+    "confidencePercentage": 54.51,
+    "lift": 8.41,
+    "transactionCount": 435,
+    "itemCount": 2,
+    "category": "Vintage Regency Dining",
+    "significance": "Standard",
+    "businessAction": "Bundle '60 TEATIME FAIRY CAKE CASES' with 'PACK OF 72 RETROSPOT CAKE CASES' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-040",
+    "rule": "JUMBO BAG WOODLAND ANIMALS -> JUMBO BAG PINK POLKADOT",
+    "antecedents": [
+      "JUMBO BAG WOODLAND ANIMALS"
+    ],
+    "consequents": [
+      "JUMBO BAG PINK POLKADOT"
+    ],
+    "support": 0.021637,
+    "supportPercentage": 2.16,
+    "confidence": 0.5,
+    "confidencePercentage": 50.0,
+    "lift": 8.15,
+    "transactionCount": 427,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO BAG WOODLAND ANIMALS' with 'JUMBO BAG PINK POLKADOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-041",
+    "rule": "JUMBO BAG PINK POLKADOT, JUMBO STORAGE BAG SUKI -> JUMBO BAG RED RETROSPOT",
+    "antecedents": [
+      "JUMBO BAG PINK POLKADOT",
+      "JUMBO STORAGE BAG SUKI"
+    ],
+    "consequents": [
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "support": 0.020877,
+    "supportPercentage": 2.09,
+    "confidence": 0.801556,
+    "confidencePercentage": 80.16,
+    "lift": 7.66,
+    "transactionCount": 412,
+    "itemCount": 3,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO BAG PINK POLKADOT, JUMBO STORAGE BAG SUKI' with 'JUMBO BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-042",
+    "rule": "LUNCH BAG PINK POLKADOT -> LUNCH BAG RED RETROSPOT",
+    "antecedents": [
+      "LUNCH BAG PINK POLKADOT"
+    ],
+    "consequents": [
+      "LUNCH BAG RED RETROSPOT"
+    ],
+    "support": 0.030048,
+    "supportPercentage": 3.0,
+    "confidence": 0.552656,
+    "confidencePercentage": 55.27,
+    "lift": 7.08,
+    "transactionCount": 593,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'LUNCH BAG PINK POLKADOT' with 'LUNCH BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-043",
+    "rule": "LUNCH BAG WOODLAND -> LUNCH BAG RED RETROSPOT",
+    "antecedents": [
+      "LUNCH BAG WOODLAND"
+    ],
+    "consequents": [
+      "LUNCH BAG RED RETROSPOT"
+    ],
+    "support": 0.026349,
+    "supportPercentage": 2.63,
+    "confidence": 0.517928,
+    "confidencePercentage": 51.79,
+    "lift": 6.63,
+    "transactionCount": 520,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'LUNCH BAG WOODLAND' with 'LUNCH BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-044",
+    "rule": "LUNCH BAG SUKI DESIGN -> LUNCH BAG RED RETROSPOT",
+    "antecedents": [
+      "LUNCH BAG SUKI DESIGN"
+    ],
+    "consequents": [
+      "LUNCH BAG RED RETROSPOT"
+    ],
+    "support": 0.028072,
+    "supportPercentage": 2.81,
+    "confidence": 0.513915,
+    "confidencePercentage": 51.39,
+    "lift": 6.58,
+    "transactionCount": 554,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'LUNCH BAG SUKI DESIGN' with 'LUNCH BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-045",
+    "rule": "DOTCOM POSTAGE -> JUMBO BAG RED RETROSPOT",
+    "antecedents": [
+      "DOTCOM POSTAGE"
+    ],
+    "consequents": [
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "support": 0.024576,
+    "supportPercentage": 2.46,
+    "confidence": 0.685028,
+    "confidencePercentage": 68.5,
+    "lift": 6.55,
+    "transactionCount": 485,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'DOTCOM POSTAGE' with 'JUMBO BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-046",
+    "rule": "JUMBO BAG PINK POLKADOT -> JUMBO BAG RED RETROSPOT",
+    "antecedents": [
+      "JUMBO BAG PINK POLKADOT"
+    ],
+    "consequents": [
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "support": 0.0415,
+    "supportPercentage": 4.15,
+    "confidence": 0.676301,
+    "confidencePercentage": 67.63,
+    "lift": 6.47,
+    "transactionCount": 819,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO BAG PINK POLKADOT' with 'JUMBO BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-047",
+    "rule": "JUMBO BAG SCANDINAVIAN BLUE PAISLEY -> JUMBO BAG RED RETROSPOT",
+    "antecedents": [
+      "JUMBO BAG SCANDINAVIAN BLUE PAISLEY"
+    ],
+    "consequents": [
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "support": 0.022447,
+    "supportPercentage": 2.24,
+    "confidence": 0.675305,
+    "confidencePercentage": 67.53,
+    "lift": 6.46,
+    "transactionCount": 443,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO BAG SCANDINAVIAN BLUE PAISLEY' with 'JUMBO BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-048",
+    "rule": "LUNCH BAG  BLACK SKULL. -> LUNCH BAG RED RETROSPOT",
+    "antecedents": [
+      "LUNCH BAG  BLACK SKULL."
+    ],
+    "consequents": [
+      "LUNCH BAG RED RETROSPOT"
+    ],
+    "support": 0.032024,
+    "supportPercentage": 3.2,
+    "confidence": 0.501587,
+    "confidencePercentage": 50.16,
+    "lift": 6.42,
+    "transactionCount": 632,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'LUNCH BAG  BLACK SKULL.' with 'LUNCH BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-049",
+    "rule": "JUMBO BAG STRAWBERRY -> JUMBO BAG RED RETROSPOT",
+    "antecedents": [
+      "JUMBO BAG STRAWBERRY"
+    ],
+    "consequents": [
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "support": 0.026805,
+    "supportPercentage": 2.68,
+    "confidence": 0.64908,
+    "confidencePercentage": 64.91,
+    "lift": 6.21,
+    "transactionCount": 529,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO BAG STRAWBERRY' with 'JUMBO BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-050",
+    "rule": "JUMBO  BAG BAROQUE BLACK WHITE -> JUMBO BAG RED RETROSPOT",
+    "antecedents": [
+      "JUMBO  BAG BAROQUE BLACK WHITE"
+    ],
+    "consequents": [
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "support": 0.029389,
+    "supportPercentage": 2.94,
+    "confidence": 0.627027,
+    "confidencePercentage": 62.7,
+    "lift": 6.0,
+    "transactionCount": 580,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO  BAG BAROQUE BLACK WHITE' with 'JUMBO BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-051",
+    "rule": "JUMBO BAG SPACEBOY DESIGN -> JUMBO BAG RED RETROSPOT",
+    "antecedents": [
+      "JUMBO BAG SPACEBOY DESIGN"
+    ],
+    "consequents": [
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "support": 0.021586,
+    "supportPercentage": 2.16,
+    "confidence": 0.624633,
+    "confidencePercentage": 62.46,
+    "lift": 5.97,
+    "transactionCount": 426,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO BAG SPACEBOY DESIGN' with 'JUMBO BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-052",
+    "rule": "JUMBO BAG WOODLAND ANIMALS -> JUMBO BAG RED RETROSPOT",
+    "antecedents": [
+      "JUMBO BAG WOODLAND ANIMALS"
+    ],
+    "consequents": [
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "support": 0.027008,
+    "supportPercentage": 2.7,
+    "confidence": 0.624122,
+    "confidencePercentage": 62.41,
+    "lift": 5.97,
+    "transactionCount": 533,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO BAG WOODLAND ANIMALS' with 'JUMBO BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-053",
+    "rule": "RED HANGING HEART T-LIGHT HOLDER -> WHITE HANGING HEART T-LIGHT HOLDER",
+    "antecedents": [
+      "RED HANGING HEART T-LIGHT HOLDER"
+    ],
+    "consequents": [
+      "WHITE HANGING HEART T-LIGHT HOLDER"
+    ],
+    "support": 0.024272,
+    "supportPercentage": 2.43,
+    "confidence": 0.664355,
+    "confidencePercentage": 66.44,
+    "lift": 5.95,
+    "transactionCount": 479,
+    "itemCount": 2,
+    "category": "General",
+    "significance": "Standard",
+    "businessAction": "Bundle 'RED HANGING HEART T-LIGHT HOLDER' with 'WHITE HANGING HEART T-LIGHT HOLDER' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-054",
+    "rule": "JUMBO STORAGE BAG SUKI -> JUMBO BAG RED RETROSPOT",
+    "antecedents": [
+      "JUMBO STORAGE BAG SUKI"
+    ],
+    "consequents": [
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "support": 0.036534,
+    "supportPercentage": 3.65,
+    "confidence": 0.612054,
+    "confidencePercentage": 61.21,
+    "lift": 5.85,
+    "transactionCount": 721,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO STORAGE BAG SUKI' with 'JUMBO BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-055",
+    "rule": "JUMBO BAG PINK VINTAGE PAISLEY -> JUMBO BAG RED RETROSPOT",
+    "antecedents": [
+      "JUMBO BAG PINK VINTAGE PAISLEY"
+    ],
+    "consequents": [
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "support": 0.025944,
+    "supportPercentage": 2.59,
+    "confidence": 0.599532,
+    "confidencePercentage": 59.95,
+    "lift": 5.73,
+    "transactionCount": 512,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO BAG PINK VINTAGE PAISLEY' with 'JUMBO BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-056",
+    "rule": "JUMBO STORAGE BAG SKULLS -> JUMBO BAG RED RETROSPOT",
+    "antecedents": [
+      "JUMBO STORAGE BAG SKULLS"
+    ],
+    "consequents": [
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "support": 0.020927,
+    "supportPercentage": 2.09,
+    "confidence": 0.587482,
+    "confidencePercentage": 58.75,
+    "lift": 5.62,
+    "transactionCount": 413,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO STORAGE BAG SKULLS' with 'JUMBO BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-057",
+    "rule": "JUMBO SHOPPER VINTAGE RED PAISLEY -> JUMBO BAG RED RETROSPOT",
+    "antecedents": [
+      "JUMBO SHOPPER VINTAGE RED PAISLEY"
+    ],
+    "consequents": [
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "support": 0.034254,
+    "supportPercentage": 3.43,
+    "confidence": 0.57976,
+    "confidencePercentage": 57.98,
+    "lift": 5.54,
+    "transactionCount": 676,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO SHOPPER VINTAGE RED PAISLEY' with 'JUMBO BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-058",
+    "rule": "JUMBO BAG APPLES -> JUMBO BAG RED RETROSPOT",
+    "antecedents": [
+      "JUMBO BAG APPLES"
+    ],
+    "consequents": [
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "support": 0.027413,
+    "supportPercentage": 2.74,
+    "confidence": 0.561203,
+    "confidencePercentage": 56.12,
+    "lift": 5.37,
+    "transactionCount": 541,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'JUMBO BAG APPLES' with 'JUMBO BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  },
+  {
+    "id": "rule-059",
+    "rule": "RECYCLING BAG RETROSPOT -> JUMBO BAG RED RETROSPOT",
+    "antecedents": [
+      "RECYCLING BAG RETROSPOT"
+    ],
+    "consequents": [
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "support": 0.020978,
+    "supportPercentage": 2.1,
+    "confidence": 0.557201,
+    "confidencePercentage": 55.72,
+    "lift": 5.33,
+    "transactionCount": 414,
+    "itemCount": 2,
+    "category": "Storage & Bags",
+    "significance": "Standard",
+    "businessAction": "Bundle 'RECYCLING BAG RETROSPOT' with 'JUMBO BAG RED RETROSPOT' with a 10% co-purchase discount or highlight in 'Frequently Bought Together' widget."
+  }
+]

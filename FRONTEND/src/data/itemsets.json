@@ -1,0 +1,4244 @@
+[
+  {
+    "id": "itemset-0001",
+    "items": [
+      "WHITE HANGING HEART T-LIGHT HOLDER"
+    ],
+    "itemsetString": "WHITE HANGING HEART T-LIGHT HOLDER",
+    "support": 0.111578,
+    "supportPercentage": 11.16,
+    "transactionCount": 2202,
+    "size": 1
+  },
+  {
+    "id": "itemset-0002",
+    "items": [
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "itemsetString": "JUMBO BAG RED RETROSPOT",
+    "support": 0.104586,
+    "supportPercentage": 10.46,
+    "transactionCount": 2064,
+    "size": 1
+  },
+  {
+    "id": "itemset-0003",
+    "items": [
+      "REGENCY CAKESTAND 3 TIER"
+    ],
+    "itemsetString": "REGENCY CAKESTAND 3 TIER",
+    "support": 0.096478,
+    "supportPercentage": 9.65,
+    "transactionCount": 1904,
+    "size": 1
+  },
+  {
+    "id": "itemset-0004",
+    "items": [
+      "PARTY BUNTING"
+    ],
+    "itemsetString": "PARTY BUNTING",
+    "support": 0.083912,
+    "supportPercentage": 8.39,
+    "transactionCount": 1656,
+    "size": 1
+  },
+  {
+    "id": "itemset-0005",
+    "items": [
+      "LUNCH BAG RED RETROSPOT"
+    ],
+    "itemsetString": "LUNCH BAG RED RETROSPOT",
+    "support": 0.078085,
+    "supportPercentage": 7.81,
+    "transactionCount": 1541,
+    "size": 1
+  },
+  {
+    "id": "itemset-0006",
+    "items": [
+      "ASSORTED COLOUR BIRD ORNAMENT"
+    ],
+    "itemsetString": "ASSORTED COLOUR BIRD ORNAMENT",
+    "support": 0.072511,
+    "supportPercentage": 7.25,
+    "transactionCount": 1431,
+    "size": 1
+  },
+  {
+    "id": "itemset-0007",
+    "items": [
+      "SET OF 3 CAKE TINS PANTRY DESIGN"
+    ],
+    "itemsetString": "SET OF 3 CAKE TINS PANTRY DESIGN",
+    "support": 0.068204,
+    "supportPercentage": 6.82,
+    "transactionCount": 1346,
+    "size": 1
+  },
+  {
+    "id": "itemset-0008",
+    "items": [
+      "PACK OF 72 RETROSPOT CAKE CASES"
+    ],
+    "itemsetString": "PACK OF 72 RETROSPOT CAKE CASES",
+    "support": 0.064809,
+    "supportPercentage": 6.48,
+    "transactionCount": 1279,
+    "size": 1
+  },
+  {
+    "id": "itemset-0009",
+    "items": [
+      "LUNCH BAG  BLACK SKULL."
+    ],
+    "itemsetString": "LUNCH BAG  BLACK SKULL.",
+    "support": 0.063846,
+    "supportPercentage": 6.38,
+    "transactionCount": 1260,
+    "size": 1
+  },
+  {
+    "id": "itemset-0010",
+    "items": [
+      "NATURAL SLATE HEART CHALKBOARD"
+    ],
+    "itemsetString": "NATURAL SLATE HEART CHALKBOARD",
+    "support": 0.062427,
+    "supportPercentage": 6.24,
+    "transactionCount": 1232,
+    "size": 1
+  },
+  {
+    "id": "itemset-0011",
+    "items": [
+      "JUMBO BAG PINK POLKADOT"
+    ],
+    "itemsetString": "JUMBO BAG PINK POLKADOT",
+    "support": 0.061363,
+    "supportPercentage": 6.14,
+    "transactionCount": 1211,
+    "size": 1
+  },
+  {
+    "id": "itemset-0012",
+    "items": [
+      "HEART OF WICKER SMALL"
+    ],
+    "itemsetString": "HEART OF WICKER SMALL",
+    "support": 0.059843,
+    "supportPercentage": 5.98,
+    "transactionCount": 1181,
+    "size": 1
+  },
+  {
+    "id": "itemset-0013",
+    "items": [
+      "JUMBO STORAGE BAG SUKI"
+    ],
+    "itemsetString": "JUMBO STORAGE BAG SUKI",
+    "support": 0.059691,
+    "supportPercentage": 5.97,
+    "transactionCount": 1178,
+    "size": 1
+  },
+  {
+    "id": "itemset-0014",
+    "items": [
+      "JUMBO SHOPPER VINTAGE RED PAISLEY"
+    ],
+    "itemsetString": "JUMBO SHOPPER VINTAGE RED PAISLEY",
+    "support": 0.059083,
+    "supportPercentage": 5.91,
+    "transactionCount": 1166,
+    "size": 1
+  },
+  {
+    "id": "itemset-0015",
+    "items": [
+      "LUNCH BAG SPACEBOY DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG SPACEBOY DESIGN",
+    "support": 0.05812,
+    "supportPercentage": 5.81,
+    "transactionCount": 1147,
+    "size": 1
+  },
+  {
+    "id": "itemset-0016",
+    "items": [
+      "PAPER CHAIN KIT 50'S CHRISTMAS"
+    ],
+    "itemsetString": "PAPER CHAIN KIT 50'S CHRISTMAS",
+    "support": 0.057917,
+    "supportPercentage": 5.79,
+    "transactionCount": 1143,
+    "size": 1
+  },
+  {
+    "id": "itemset-0017",
+    "items": [
+      "LUNCH BAG CARS BLUE"
+    ],
+    "itemsetString": "LUNCH BAG CARS BLUE",
+    "support": 0.05736,
+    "supportPercentage": 5.74,
+    "transactionCount": 1132,
+    "size": 1
+  },
+  {
+    "id": "itemset-0018",
+    "items": [
+      "JAM MAKING SET PRINTED"
+    ],
+    "itemsetString": "JAM MAKING SET PRINTED",
+    "support": 0.056549,
+    "supportPercentage": 5.65,
+    "transactionCount": 1116,
+    "size": 1
+  },
+  {
+    "id": "itemset-0019",
+    "items": [
+      "SPOTTY BUNTING"
+    ],
+    "itemsetString": "SPOTTY BUNTING",
+    "support": 0.056448,
+    "supportPercentage": 5.64,
+    "transactionCount": 1114,
+    "size": 1
+  },
+  {
+    "id": "itemset-0020",
+    "items": [
+      "WOODEN PICTURE FRAME WHITE FINISH"
+    ],
+    "itemsetString": "WOODEN PICTURE FRAME WHITE FINISH",
+    "support": 0.055333,
+    "supportPercentage": 5.53,
+    "transactionCount": 1092,
+    "size": 1
+  },
+  {
+    "id": "itemset-0021",
+    "items": [
+      "JAM MAKING SET WITH JARS"
+    ],
+    "itemsetString": "JAM MAKING SET WITH JARS",
+    "support": 0.055181,
+    "supportPercentage": 5.52,
+    "transactionCount": 1089,
+    "size": 1
+  },
+  {
+    "id": "itemset-0022",
+    "items": [
+      "RECIPE BOX PANTRY YELLOW DESIGN"
+    ],
+    "itemsetString": "RECIPE BOX PANTRY YELLOW DESIGN",
+    "support": 0.054978,
+    "supportPercentage": 5.5,
+    "transactionCount": 1085,
+    "size": 1
+  },
+  {
+    "id": "itemset-0023",
+    "items": [
+      "LUNCH BAG SUKI DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG SUKI DESIGN",
+    "support": 0.054624,
+    "supportPercentage": 5.46,
+    "transactionCount": 1078,
+    "size": 1
+  },
+  {
+    "id": "itemset-0024",
+    "items": [
+      "LUNCH BAG PINK POLKADOT"
+    ],
+    "itemsetString": "LUNCH BAG PINK POLKADOT",
+    "support": 0.05437,
+    "supportPercentage": 5.44,
+    "transactionCount": 1073,
+    "size": 1
+  },
+  {
+    "id": "itemset-0025",
+    "items": [
+      "POSTAGE"
+    ],
+    "itemsetString": "POSTAGE",
+    "support": 0.054218,
+    "supportPercentage": 5.42,
+    "transactionCount": 1070,
+    "size": 1
+  },
+  {
+    "id": "itemset-0026",
+    "items": [
+      "SET OF 4 PANTRY JELLY MOULDS"
+    ],
+    "itemsetString": "SET OF 4 PANTRY JELLY MOULDS",
+    "support": 0.053306,
+    "supportPercentage": 5.33,
+    "transactionCount": 1052,
+    "size": 1
+  },
+  {
+    "id": "itemset-0027",
+    "items": [
+      "RED RETROSPOT CHARLOTTE BAG"
+    ],
+    "itemsetString": "RED RETROSPOT CHARLOTTE BAG",
+    "support": 0.05209,
+    "supportPercentage": 5.21,
+    "transactionCount": 1028,
+    "size": 1
+  },
+  {
+    "id": "itemset-0028",
+    "items": [
+      "ALARM CLOCK BAKELIKE RED"
+    ],
+    "itemsetString": "ALARM CLOCK BAKELIKE RED",
+    "support": 0.05204,
+    "supportPercentage": 5.2,
+    "transactionCount": 1027,
+    "size": 1
+  },
+  {
+    "id": "itemset-0029",
+    "items": [
+      "LUNCH BAG APPLE DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG APPLE DESIGN",
+    "support": 0.051786,
+    "supportPercentage": 5.18,
+    "transactionCount": 1022,
+    "size": 1
+  },
+  {
+    "id": "itemset-0030",
+    "items": [
+      "VICTORIAN GLASS HANGING T-LIGHT"
+    ],
+    "itemsetString": "VICTORIAN GLASS HANGING T-LIGHT",
+    "support": 0.051786,
+    "supportPercentage": 5.18,
+    "transactionCount": 1022,
+    "size": 1
+  },
+  {
+    "id": "itemset-0031",
+    "items": [
+      "ROSES REGENCY TEACUP AND SAUCER"
+    ],
+    "itemsetString": "ROSES REGENCY TEACUP AND SAUCER",
+    "support": 0.05133,
+    "supportPercentage": 5.13,
+    "transactionCount": 1013,
+    "size": 1
+  },
+  {
+    "id": "itemset-0032",
+    "items": [
+      "LUNCH BAG WOODLAND"
+    ],
+    "itemsetString": "LUNCH BAG WOODLAND",
+    "support": 0.050874,
+    "supportPercentage": 5.09,
+    "transactionCount": 1004,
+    "size": 1
+  },
+  {
+    "id": "itemset-0033",
+    "items": [
+      "RABBIT NIGHT LIGHT"
+    ],
+    "itemsetString": "RABBIT NIGHT LIGHT",
+    "support": 0.049607,
+    "supportPercentage": 4.96,
+    "transactionCount": 979,
+    "size": 1
+  },
+  {
+    "id": "itemset-0034",
+    "items": [
+      "GREEN REGENCY TEACUP AND SAUCER"
+    ],
+    "itemsetString": "GREEN REGENCY TEACUP AND SAUCER",
+    "support": 0.049405,
+    "supportPercentage": 4.94,
+    "transactionCount": 975,
+    "size": 1
+  },
+  {
+    "id": "itemset-0035",
+    "items": [
+      "ALARM CLOCK BAKELIKE GREEN"
+    ],
+    "itemsetString": "ALARM CLOCK BAKELIKE GREEN",
+    "support": 0.048999,
+    "supportPercentage": 4.9,
+    "transactionCount": 967,
+    "size": 1
+  },
+  {
+    "id": "itemset-0036",
+    "items": [
+      "JUMBO BAG APPLES"
+    ],
+    "itemsetString": "JUMBO BAG APPLES",
+    "support": 0.048847,
+    "supportPercentage": 4.88,
+    "transactionCount": 964,
+    "size": 1
+  },
+  {
+    "id": "itemset-0037",
+    "items": [
+      "SET/20 RED RETROSPOT PAPER NAPKINS"
+    ],
+    "itemsetString": "SET/20 RED RETROSPOT PAPER NAPKINS",
+    "support": 0.048847,
+    "supportPercentage": 4.88,
+    "transactionCount": 964,
+    "size": 1
+  },
+  {
+    "id": "itemset-0038",
+    "items": [
+      "WOODEN FRAME ANTIQUE WHITE"
+    ],
+    "itemsetString": "WOODEN FRAME ANTIQUE WHITE",
+    "support": 0.048543,
+    "supportPercentage": 4.85,
+    "transactionCount": 958,
+    "size": 1
+  },
+  {
+    "id": "itemset-0039",
+    "items": [
+      "6 RIBBONS RUSTIC CHARM"
+    ],
+    "itemsetString": "6 RIBBONS RUSTIC CHARM",
+    "support": 0.047732,
+    "supportPercentage": 4.77,
+    "transactionCount": 942,
+    "size": 1
+  },
+  {
+    "id": "itemset-0040",
+    "items": [
+      "RETROSPOT TEA SET CERAMIC 11 PC"
+    ],
+    "itemsetString": "RETROSPOT TEA SET CERAMIC 11 PC",
+    "support": 0.047479,
+    "supportPercentage": 4.75,
+    "transactionCount": 937,
+    "size": 1
+  },
+  {
+    "id": "itemset-0041",
+    "items": [
+      "JUMBO  BAG BAROQUE BLACK WHITE"
+    ],
+    "itemsetString": "JUMBO  BAG BAROQUE BLACK WHITE",
+    "support": 0.046871,
+    "supportPercentage": 4.69,
+    "transactionCount": 925,
+    "size": 1
+  },
+  {
+    "id": "itemset-0042",
+    "items": [
+      "HEART OF WICKER LARGE"
+    ],
+    "itemsetString": "HEART OF WICKER LARGE",
+    "support": 0.046516,
+    "supportPercentage": 4.65,
+    "transactionCount": 918,
+    "size": 1
+  },
+  {
+    "id": "itemset-0043",
+    "items": [
+      "GARDENERS KNEELING PAD KEEP CALM"
+    ],
+    "itemsetString": "GARDENERS KNEELING PAD KEEP CALM",
+    "support": 0.045858,
+    "supportPercentage": 4.59,
+    "transactionCount": 905,
+    "size": 1
+  },
+  {
+    "id": "itemset-0044",
+    "items": [
+      "BAKING SET 9 PIECE RETROSPOT"
+    ],
+    "itemsetString": "BAKING SET 9 PIECE RETROSPOT",
+    "support": 0.045503,
+    "supportPercentage": 4.55,
+    "transactionCount": 898,
+    "size": 1
+  },
+  {
+    "id": "itemset-0045",
+    "items": [
+      "JUMBO BAG ALPHABET"
+    ],
+    "itemsetString": "JUMBO BAG ALPHABET",
+    "support": 0.044844,
+    "supportPercentage": 4.48,
+    "transactionCount": 885,
+    "size": 1
+  },
+  {
+    "id": "itemset-0046",
+    "items": [
+      "SPACEBOY LUNCH BOX"
+    ],
+    "itemsetString": "SPACEBOY LUNCH BOX",
+    "support": 0.044794,
+    "supportPercentage": 4.48,
+    "transactionCount": 884,
+    "size": 1
+  },
+  {
+    "id": "itemset-0047",
+    "items": [
+      "VINTAGE SNAP CARDS"
+    ],
+    "itemsetString": "VINTAGE SNAP CARDS",
+    "support": 0.044641,
+    "supportPercentage": 4.46,
+    "transactionCount": 881,
+    "size": 1
+  },
+  {
+    "id": "itemset-0048",
+    "items": [
+      "CHARLOTTE BAG SUKI DESIGN"
+    ],
+    "itemsetString": "CHARLOTTE BAG SUKI DESIGN",
+    "support": 0.044337,
+    "supportPercentage": 4.43,
+    "transactionCount": 875,
+    "size": 1
+  },
+  {
+    "id": "itemset-0049",
+    "items": [
+      "REX CASH+CARRY JUMBO SHOPPER"
+    ],
+    "itemsetString": "REX CASH+CARRY JUMBO SHOPPER",
+    "support": 0.044084,
+    "supportPercentage": 4.41,
+    "transactionCount": 870,
+    "size": 1
+  },
+  {
+    "id": "itemset-0050",
+    "items": [
+      "JUMBO BAG VINTAGE LEAF"
+    ],
+    "itemsetString": "JUMBO BAG VINTAGE LEAF",
+    "support": 0.043476,
+    "supportPercentage": 4.35,
+    "transactionCount": 858,
+    "size": 1
+  },
+  {
+    "id": "itemset-0051",
+    "items": [
+      "SET/5 RED RETROSPOT LID GLASS BOWLS"
+    ],
+    "itemsetString": "SET/5 RED RETROSPOT LID GLASS BOWLS",
+    "support": 0.043425,
+    "supportPercentage": 4.34,
+    "transactionCount": 857,
+    "size": 1
+  },
+  {
+    "id": "itemset-0052",
+    "items": [
+      "JUMBO BAG PINK VINTAGE PAISLEY"
+    ],
+    "itemsetString": "JUMBO BAG PINK VINTAGE PAISLEY",
+    "support": 0.043273,
+    "supportPercentage": 4.33,
+    "transactionCount": 854,
+    "size": 1
+  },
+  {
+    "id": "itemset-0053",
+    "items": [
+      "JUMBO BAG WOODLAND ANIMALS"
+    ],
+    "itemsetString": "JUMBO BAG WOODLAND ANIMALS",
+    "support": 0.043273,
+    "supportPercentage": 4.33,
+    "transactionCount": 854,
+    "size": 1
+  },
+  {
+    "id": "itemset-0054",
+    "items": [
+      "PACK OF 60 PINK PAISLEY CAKE CASES"
+    ],
+    "itemsetString": "PACK OF 60 PINK PAISLEY CAKE CASES",
+    "support": 0.042615,
+    "supportPercentage": 4.26,
+    "transactionCount": 841,
+    "size": 1
+  },
+  {
+    "id": "itemset-0055",
+    "items": [
+      "RED TOADSTOOL LED NIGHT LIGHT"
+    ],
+    "itemsetString": "RED TOADSTOOL LED NIGHT LIGHT",
+    "support": 0.042513,
+    "supportPercentage": 4.25,
+    "transactionCount": 839,
+    "size": 1
+  },
+  {
+    "id": "itemset-0056",
+    "items": [
+      "CHOCOLATE HOT WATER BOTTLE"
+    ],
+    "itemsetString": "CHOCOLATE HOT WATER BOTTLE",
+    "support": 0.042361,
+    "supportPercentage": 4.24,
+    "transactionCount": 836,
+    "size": 1
+  },
+  {
+    "id": "itemset-0057",
+    "items": [
+      "SET OF 3 REGENCY CAKE TINS"
+    ],
+    "itemsetString": "SET OF 3 REGENCY CAKE TINS",
+    "support": 0.042209,
+    "supportPercentage": 4.22,
+    "transactionCount": 833,
+    "size": 1
+  },
+  {
+    "id": "itemset-0058",
+    "items": [
+      "DOLLY GIRL LUNCH BOX"
+    ],
+    "itemsetString": "DOLLY GIRL LUNCH BOX",
+    "support": 0.042057,
+    "supportPercentage": 4.21,
+    "transactionCount": 830,
+    "size": 1
+  },
+  {
+    "id": "itemset-0059",
+    "items": [
+      "PLEASE ONE PERSON METAL SIGN"
+    ],
+    "itemsetString": "PLEASE ONE PERSON METAL SIGN",
+    "support": 0.041905,
+    "supportPercentage": 4.19,
+    "transactionCount": 827,
+    "size": 1
+  },
+  {
+    "id": "itemset-0060",
+    "items": [
+      "WOODLAND CHARLOTTE BAG"
+    ],
+    "itemsetString": "WOODLAND CHARLOTTE BAG",
+    "support": 0.041905,
+    "supportPercentage": 4.19,
+    "transactionCount": 827,
+    "size": 1
+  },
+  {
+    "id": "itemset-0061",
+    "items": [
+      "JUMBO BAG PINK POLKADOT",
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "itemsetString": "JUMBO BAG PINK POLKADOT, JUMBO BAG RED RETROSPOT",
+    "support": 0.0415,
+    "supportPercentage": 4.15,
+    "transactionCount": 819,
+    "size": 2
+  },
+  {
+    "id": "itemset-0062",
+    "items": [
+      "JUMBO BAG STRAWBERRY"
+    ],
+    "itemsetString": "JUMBO BAG STRAWBERRY",
+    "support": 0.041297,
+    "supportPercentage": 4.13,
+    "transactionCount": 815,
+    "size": 1
+  },
+  {
+    "id": "itemset-0063",
+    "items": [
+      "SET OF 6 SPICE TINS PANTRY DESIGN"
+    ],
+    "itemsetString": "SET OF 6 SPICE TINS PANTRY DESIGN",
+    "support": 0.041196,
+    "supportPercentage": 4.12,
+    "transactionCount": 813,
+    "size": 1
+  },
+  {
+    "id": "itemset-0064",
+    "items": [
+      "PAPER CHAIN KIT VINTAGE CHRISTMAS"
+    ],
+    "itemsetString": "PAPER CHAIN KIT VINTAGE CHRISTMAS",
+    "support": 0.041095,
+    "supportPercentage": 4.11,
+    "transactionCount": 811,
+    "size": 1
+  },
+  {
+    "id": "itemset-0065",
+    "items": [
+      "60 TEATIME FAIRY CAKE CASES"
+    ],
+    "itemsetString": "60 TEATIME FAIRY CAKE CASES",
+    "support": 0.040436,
+    "supportPercentage": 4.04,
+    "transactionCount": 798,
+    "size": 1
+  },
+  {
+    "id": "itemset-0066",
+    "items": [
+      "PAPER BUNTING RETROSPOT"
+    ],
+    "itemsetString": "PAPER BUNTING RETROSPOT",
+    "support": 0.039878,
+    "supportPercentage": 3.99,
+    "transactionCount": 787,
+    "size": 1
+  },
+  {
+    "id": "itemset-0067",
+    "items": [
+      "POPCORN HOLDER"
+    ],
+    "itemsetString": "POPCORN HOLDER",
+    "support": 0.039372,
+    "supportPercentage": 3.94,
+    "transactionCount": 777,
+    "size": 1
+  },
+  {
+    "id": "itemset-0068",
+    "items": [
+      "HOT WATER BOTTLE KEEP CALM"
+    ],
+    "itemsetString": "HOT WATER BOTTLE KEEP CALM",
+    "support": 0.039068,
+    "supportPercentage": 3.91,
+    "transactionCount": 771,
+    "size": 1
+  },
+  {
+    "id": "itemset-0069",
+    "items": [
+      "HOME BUILDING BLOCK WORD"
+    ],
+    "itemsetString": "HOME BUILDING BLOCK WORD",
+    "support": 0.038713,
+    "supportPercentage": 3.87,
+    "transactionCount": 764,
+    "size": 1
+  },
+  {
+    "id": "itemset-0070",
+    "items": [
+      "ALARM CLOCK BAKELIKE PINK"
+    ],
+    "itemsetString": "ALARM CLOCK BAKELIKE PINK",
+    "support": 0.03846,
+    "supportPercentage": 3.85,
+    "transactionCount": 759,
+    "size": 1
+  },
+  {
+    "id": "itemset-0071",
+    "items": [
+      "SCOTTIE DOG HOT WATER BOTTLE"
+    ],
+    "itemsetString": "SCOTTIE DOG HOT WATER BOTTLE",
+    "support": 0.03846,
+    "supportPercentage": 3.85,
+    "transactionCount": 759,
+    "size": 1
+  },
+  {
+    "id": "itemset-0072",
+    "items": [
+      "GARDENERS KNEELING PAD CUP OF TEA"
+    ],
+    "itemsetString": "GARDENERS KNEELING PAD CUP OF TEA",
+    "support": 0.038206,
+    "supportPercentage": 3.82,
+    "transactionCount": 754,
+    "size": 1
+  },
+  {
+    "id": "itemset-0073",
+    "items": [
+      "CLOTHES PEGS RETROSPOT PACK 24"
+    ],
+    "itemsetString": "CLOTHES PEGS RETROSPOT PACK 24",
+    "support": 0.038004,
+    "supportPercentage": 3.8,
+    "transactionCount": 750,
+    "size": 1
+  },
+  {
+    "id": "itemset-0074",
+    "items": [
+      "GIN + TONIC DIET METAL SIGN"
+    ],
+    "itemsetString": "GIN + TONIC DIET METAL SIGN",
+    "support": 0.0377,
+    "supportPercentage": 3.77,
+    "transactionCount": 744,
+    "size": 1
+  },
+  {
+    "id": "itemset-0075",
+    "items": [
+      "RECYCLING BAG RETROSPOT"
+    ],
+    "itemsetString": "RECYCLING BAG RETROSPOT",
+    "support": 0.037649,
+    "supportPercentage": 3.76,
+    "transactionCount": 743,
+    "size": 1
+  },
+  {
+    "id": "itemset-0076",
+    "items": [
+      "CHARLOTTE BAG PINK POLKADOT"
+    ],
+    "itemsetString": "CHARLOTTE BAG PINK POLKADOT",
+    "support": 0.037395,
+    "supportPercentage": 3.74,
+    "transactionCount": 738,
+    "size": 1
+  },
+  {
+    "id": "itemset-0077",
+    "items": [
+      "PINK REGENCY TEACUP AND SAUCER"
+    ],
+    "itemsetString": "PINK REGENCY TEACUP AND SAUCER",
+    "support": 0.037294,
+    "supportPercentage": 3.73,
+    "transactionCount": 736,
+    "size": 1
+  },
+  {
+    "id": "itemset-0078",
+    "items": [
+      "GREEN REGENCY TEACUP AND SAUCER",
+      "ROSES REGENCY TEACUP AND SAUCER"
+    ],
+    "itemsetString": "GREEN REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER",
+    "support": 0.037041,
+    "supportPercentage": 3.7,
+    "transactionCount": 731,
+    "size": 2
+  },
+  {
+    "id": "itemset-0079",
+    "items": [
+      "LUNCH BAG ALPHABET DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG ALPHABET DESIGN",
+    "support": 0.036686,
+    "supportPercentage": 3.67,
+    "transactionCount": 724,
+    "size": 1
+  },
+  {
+    "id": "itemset-0080",
+    "items": [
+      "ROUND SNACK BOXES SET OF4 WOODLAND"
+    ],
+    "itemsetString": "ROUND SNACK BOXES SET OF4 WOODLAND",
+    "support": 0.036635,
+    "supportPercentage": 3.66,
+    "transactionCount": 723,
+    "size": 1
+  },
+  {
+    "id": "itemset-0081",
+    "items": [
+      "RED HANGING HEART T-LIGHT HOLDER"
+    ],
+    "itemsetString": "RED HANGING HEART T-LIGHT HOLDER",
+    "support": 0.036534,
+    "supportPercentage": 3.65,
+    "transactionCount": 721,
+    "size": 1
+  },
+  {
+    "id": "itemset-0082",
+    "items": [
+      "JUMBO BAG RED RETROSPOT",
+      "JUMBO STORAGE BAG SUKI"
+    ],
+    "itemsetString": "JUMBO BAG RED RETROSPOT, JUMBO STORAGE BAG SUKI",
+    "support": 0.036534,
+    "supportPercentage": 3.65,
+    "transactionCount": 721,
+    "size": 2
+  },
+  {
+    "id": "itemset-0083",
+    "items": [
+      "DOORMAT KEEP CALM AND COME IN"
+    ],
+    "itemsetString": "DOORMAT KEEP CALM AND COME IN",
+    "support": 0.036483,
+    "supportPercentage": 3.65,
+    "transactionCount": 720,
+    "size": 1
+  },
+  {
+    "id": "itemset-0084",
+    "items": [
+      "STRAWBERRY CHARLOTTE BAG"
+    ],
+    "itemsetString": "STRAWBERRY CHARLOTTE BAG",
+    "support": 0.036281,
+    "supportPercentage": 3.63,
+    "transactionCount": 716,
+    "size": 1
+  },
+  {
+    "id": "itemset-0085",
+    "items": [
+      "JUMBO BAG 50'S CHRISTMAS"
+    ],
+    "itemsetString": "JUMBO BAG 50'S CHRISTMAS",
+    "support": 0.035926,
+    "supportPercentage": 3.59,
+    "transactionCount": 709,
+    "size": 1
+  },
+  {
+    "id": "itemset-0086",
+    "items": [
+      "DOTCOM POSTAGE"
+    ],
+    "itemsetString": "DOTCOM POSTAGE",
+    "support": 0.035875,
+    "supportPercentage": 3.59,
+    "transactionCount": 708,
+    "size": 1
+  },
+  {
+    "id": "itemset-0087",
+    "items": [
+      "HANGING HEART JAR T-LIGHT HOLDER"
+    ],
+    "itemsetString": "HANGING HEART JAR T-LIGHT HOLDER",
+    "support": 0.035875,
+    "supportPercentage": 3.59,
+    "transactionCount": 708,
+    "size": 1
+  },
+  {
+    "id": "itemset-0088",
+    "items": [
+      "LUNCH BOX I LOVE LONDON"
+    ],
+    "itemsetString": "LUNCH BOX I LOVE LONDON",
+    "support": 0.035673,
+    "supportPercentage": 3.57,
+    "transactionCount": 704,
+    "size": 1
+  },
+  {
+    "id": "itemset-0089",
+    "items": [
+      "JUMBO STORAGE BAG SKULLS"
+    ],
+    "itemsetString": "JUMBO STORAGE BAG SKULLS",
+    "support": 0.035622,
+    "supportPercentage": 3.56,
+    "transactionCount": 703,
+    "size": 1
+  },
+  {
+    "id": "itemset-0090",
+    "items": [
+      "COOK WITH WINE METAL SIGN"
+    ],
+    "itemsetString": "COOK WITH WINE METAL SIGN",
+    "support": 0.03547,
+    "supportPercentage": 3.55,
+    "transactionCount": 700,
+    "size": 1
+  },
+  {
+    "id": "itemset-0091",
+    "items": [
+      "JUMBO BAG VINTAGE DOILY"
+    ],
+    "itemsetString": "JUMBO BAG VINTAGE DOILY",
+    "support": 0.035318,
+    "supportPercentage": 3.53,
+    "transactionCount": 697,
+    "size": 1
+  },
+  {
+    "id": "itemset-0092",
+    "items": [
+      "STRAWBERRY CERAMIC TRINKET BOX"
+    ],
+    "itemsetString": "STRAWBERRY CERAMIC TRINKET BOX",
+    "support": 0.035318,
+    "supportPercentage": 3.53,
+    "transactionCount": 697,
+    "size": 1
+  },
+  {
+    "id": "itemset-0093",
+    "items": [
+      "PLASTERS IN TIN WOODLAND ANIMALS"
+    ],
+    "itemsetString": "PLASTERS IN TIN WOODLAND ANIMALS",
+    "support": 0.035065,
+    "supportPercentage": 3.51,
+    "transactionCount": 692,
+    "size": 1
+  },
+  {
+    "id": "itemset-0094",
+    "items": [
+      "DOORMAT RED RETROSPOT"
+    ],
+    "itemsetString": "DOORMAT RED RETROSPOT",
+    "support": 0.034558,
+    "supportPercentage": 3.46,
+    "transactionCount": 682,
+    "size": 1
+  },
+  {
+    "id": "itemset-0095",
+    "items": [
+      "JUMBO BAG SPACEBOY DESIGN"
+    ],
+    "itemsetString": "JUMBO BAG SPACEBOY DESIGN",
+    "support": 0.034558,
+    "supportPercentage": 3.46,
+    "transactionCount": 682,
+    "size": 1
+  },
+  {
+    "id": "itemset-0096",
+    "items": [
+      "ANTIQUE SILVER T-LIGHT GLASS"
+    ],
+    "itemsetString": "ANTIQUE SILVER T-LIGHT GLASS",
+    "support": 0.034507,
+    "supportPercentage": 3.45,
+    "transactionCount": 681,
+    "size": 1
+  },
+  {
+    "id": "itemset-0097",
+    "items": [
+      "HAND OVER THE CHOCOLATE   SIGN"
+    ],
+    "itemsetString": "HAND OVER THE CHOCOLATE   SIGN",
+    "support": 0.034254,
+    "supportPercentage": 3.43,
+    "transactionCount": 676,
+    "size": 1
+  },
+  {
+    "id": "itemset-0098",
+    "items": [
+      "JUMBO BAG RED RETROSPOT",
+      "JUMBO SHOPPER VINTAGE RED PAISLEY"
+    ],
+    "itemsetString": "JUMBO BAG RED RETROSPOT, JUMBO SHOPPER VINTAGE RED PAISLEY",
+    "support": 0.034254,
+    "supportPercentage": 3.43,
+    "transactionCount": 676,
+    "size": 2
+  },
+  {
+    "id": "itemset-0099",
+    "items": [
+      "IVORY KITCHEN SCALES"
+    ],
+    "itemsetString": "IVORY KITCHEN SCALES",
+    "support": 0.034153,
+    "supportPercentage": 3.42,
+    "transactionCount": 674,
+    "size": 1
+  },
+  {
+    "id": "itemset-0100",
+    "items": [
+      "SET OF 3 BUTTERFLY COOKIE CUTTERS"
+    ],
+    "itemsetString": "SET OF 3 BUTTERFLY COOKIE CUTTERS",
+    "support": 0.034051,
+    "supportPercentage": 3.41,
+    "transactionCount": 672,
+    "size": 1
+  },
+  {
+    "id": "itemset-0101",
+    "items": [
+      "GUMBALL COAT RACK"
+    ],
+    "itemsetString": "GUMBALL COAT RACK",
+    "support": 0.034001,
+    "supportPercentage": 3.4,
+    "transactionCount": 671,
+    "size": 1
+  },
+  {
+    "id": "itemset-0102",
+    "items": [
+      "LUNCH BAG DOLLY GIRL DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG DOLLY GIRL DESIGN",
+    "support": 0.034001,
+    "supportPercentage": 3.4,
+    "transactionCount": 671,
+    "size": 1
+  },
+  {
+    "id": "itemset-0103",
+    "items": [
+      "SET OF 3 HEART COOKIE CUTTERS"
+    ],
+    "itemsetString": "SET OF 3 HEART COOKIE CUTTERS",
+    "support": 0.03395,
+    "supportPercentage": 3.39,
+    "transactionCount": 670,
+    "size": 1
+  },
+  {
+    "id": "itemset-0104",
+    "items": [
+      "WOOD BLACK BOARD ANT WHITE FINISH"
+    ],
+    "itemsetString": "WOOD BLACK BOARD ANT WHITE FINISH",
+    "support": 0.033848,
+    "supportPercentage": 3.38,
+    "transactionCount": 668,
+    "size": 1
+  },
+  {
+    "id": "itemset-0105",
+    "items": [
+      "PLASTERS IN TIN SPACEBOY"
+    ],
+    "itemsetString": "PLASTERS IN TIN SPACEBOY",
+    "support": 0.033696,
+    "supportPercentage": 3.37,
+    "transactionCount": 665,
+    "size": 1
+  },
+  {
+    "id": "itemset-0106",
+    "items": [
+      "BATHROOM METAL SIGN"
+    ],
+    "itemsetString": "BATHROOM METAL SIGN",
+    "support": 0.033595,
+    "supportPercentage": 3.36,
+    "transactionCount": 663,
+    "size": 1
+  },
+  {
+    "id": "itemset-0107",
+    "items": [
+      "LUNCH BAG VINTAGE LEAF DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG VINTAGE LEAF DESIGN",
+    "support": 0.033392,
+    "supportPercentage": 3.34,
+    "transactionCount": 659,
+    "size": 1
+  },
+  {
+    "id": "itemset-0108",
+    "items": [
+      "CHILLI LIGHTS"
+    ],
+    "itemsetString": "CHILLI LIGHTS",
+    "support": 0.03324,
+    "supportPercentage": 3.32,
+    "transactionCount": 656,
+    "size": 1
+  },
+  {
+    "id": "itemset-0109",
+    "items": [
+      "JUMBO BAG SCANDINAVIAN BLUE PAISLEY"
+    ],
+    "itemsetString": "JUMBO BAG SCANDINAVIAN BLUE PAISLEY",
+    "support": 0.03324,
+    "supportPercentage": 3.32,
+    "transactionCount": 656,
+    "size": 1
+  },
+  {
+    "id": "itemset-0110",
+    "items": [
+      "PACK OF 72 SKULL CAKE CASES"
+    ],
+    "itemsetString": "PACK OF 72 SKULL CAKE CASES",
+    "support": 0.033038,
+    "supportPercentage": 3.3,
+    "transactionCount": 652,
+    "size": 1
+  },
+  {
+    "id": "itemset-0111",
+    "items": [
+      "GINGERBREAD MAN COOKIE CUTTER"
+    ],
+    "itemsetString": "GINGERBREAD MAN COOKIE CUTTER",
+    "support": 0.032987,
+    "supportPercentage": 3.3,
+    "transactionCount": 651,
+    "size": 1
+  },
+  {
+    "id": "itemset-0112",
+    "items": [
+      "HAND WARMER OWL DESIGN"
+    ],
+    "itemsetString": "HAND WARMER OWL DESIGN",
+    "support": 0.032886,
+    "supportPercentage": 3.29,
+    "transactionCount": 649,
+    "size": 1
+  },
+  {
+    "id": "itemset-0113",
+    "items": [
+      "JUMBO BAG OWLS"
+    ],
+    "itemsetString": "JUMBO BAG OWLS",
+    "support": 0.032886,
+    "supportPercentage": 3.29,
+    "transactionCount": 649,
+    "size": 1
+  },
+  {
+    "id": "itemset-0114",
+    "items": [
+      "PACK OF 20 NAPKINS PANTRY DESIGN"
+    ],
+    "itemsetString": "PACK OF 20 NAPKINS PANTRY DESIGN",
+    "support": 0.032632,
+    "supportPercentage": 3.26,
+    "transactionCount": 644,
+    "size": 1
+  },
+  {
+    "id": "itemset-0115",
+    "items": [
+      "HOT WATER BOTTLE I AM SO POORLY"
+    ],
+    "itemsetString": "HOT WATER BOTTLE I AM SO POORLY",
+    "support": 0.032531,
+    "supportPercentage": 3.25,
+    "transactionCount": 642,
+    "size": 1
+  },
+  {
+    "id": "itemset-0116",
+    "items": [
+      "RED  HARMONICA IN BOX"
+    ],
+    "itemsetString": "RED  HARMONICA IN BOX",
+    "support": 0.03243,
+    "supportPercentage": 3.24,
+    "transactionCount": 640,
+    "size": 1
+  },
+  {
+    "id": "itemset-0117",
+    "items": [
+      "HOT WATER BOTTLE TEA AND SYMPATHY"
+    ],
+    "itemsetString": "HOT WATER BOTTLE TEA AND SYMPATHY",
+    "support": 0.032075,
+    "supportPercentage": 3.21,
+    "transactionCount": 633,
+    "size": 1
+  },
+  {
+    "id": "itemset-0118",
+    "items": [
+      "ALARM CLOCK BAKELIKE GREEN",
+      "ALARM CLOCK BAKELIKE RED"
+    ],
+    "itemsetString": "ALARM CLOCK BAKELIKE GREEN, ALARM CLOCK BAKELIKE RED",
+    "support": 0.032075,
+    "supportPercentage": 3.21,
+    "transactionCount": 633,
+    "size": 2
+  },
+  {
+    "id": "itemset-0119",
+    "items": [
+      "LUNCH BAG  BLACK SKULL.",
+      "LUNCH BAG RED RETROSPOT"
+    ],
+    "itemsetString": "LUNCH BAG  BLACK SKULL., LUNCH BAG RED RETROSPOT",
+    "support": 0.032024,
+    "supportPercentage": 3.2,
+    "transactionCount": 632,
+    "size": 2
+  },
+  {
+    "id": "itemset-0120",
+    "items": [
+      "HOMEMADE JAM SCENTED CANDLES"
+    ],
+    "itemsetString": "HOMEMADE JAM SCENTED CANDLES",
+    "support": 0.031822,
+    "supportPercentage": 3.18,
+    "transactionCount": 628,
+    "size": 1
+  },
+  {
+    "id": "itemset-0121",
+    "items": [
+      "SMALL WHITE HEART OF WICKER"
+    ],
+    "itemsetString": "SMALL WHITE HEART OF WICKER",
+    "support": 0.031619,
+    "supportPercentage": 3.16,
+    "transactionCount": 624,
+    "size": 1
+  },
+  {
+    "id": "itemset-0122",
+    "items": [
+      "LOVE BUILDING BLOCK WORD"
+    ],
+    "itemsetString": "LOVE BUILDING BLOCK WORD",
+    "support": 0.031366,
+    "supportPercentage": 3.14,
+    "transactionCount": 619,
+    "size": 1
+  },
+  {
+    "id": "itemset-0123",
+    "items": [
+      "DOORMAT UNION FLAG"
+    ],
+    "itemsetString": "DOORMAT UNION FLAG",
+    "support": 0.031163,
+    "supportPercentage": 3.12,
+    "transactionCount": 615,
+    "size": 1
+  },
+  {
+    "id": "itemset-0124",
+    "items": [
+      "RETROSPOT HEART HOT WATER BOTTLE"
+    ],
+    "itemsetString": "RETROSPOT HEART HOT WATER BOTTLE",
+    "support": 0.030859,
+    "supportPercentage": 3.09,
+    "transactionCount": 609,
+    "size": 1
+  },
+  {
+    "id": "itemset-0125",
+    "items": [
+      "PINK CREAM FELT CRAFT TRINKET BOX"
+    ],
+    "itemsetString": "PINK CREAM FELT CRAFT TRINKET BOX",
+    "support": 0.030758,
+    "supportPercentage": 3.08,
+    "transactionCount": 607,
+    "size": 1
+  },
+  {
+    "id": "itemset-0126",
+    "items": [
+      "COLOUR GLASS T-LIGHT HOLDER HANGING"
+    ],
+    "itemsetString": "COLOUR GLASS T-LIGHT HOLDER HANGING",
+    "support": 0.030707,
+    "supportPercentage": 3.07,
+    "transactionCount": 606,
+    "size": 1
+  },
+  {
+    "id": "itemset-0127",
+    "items": [
+      "SET OF 60 PANTRY DESIGN CAKE CASES"
+    ],
+    "itemsetString": "SET OF 60 PANTRY DESIGN CAKE CASES",
+    "support": 0.030656,
+    "supportPercentage": 3.07,
+    "transactionCount": 605,
+    "size": 1
+  },
+  {
+    "id": "itemset-0128",
+    "items": [
+      "GREEN REGENCY TEACUP AND SAUCER",
+      "PINK REGENCY TEACUP AND SAUCER"
+    ],
+    "itemsetString": "GREEN REGENCY TEACUP AND SAUCER, PINK REGENCY TEACUP AND SAUCER",
+    "support": 0.030656,
+    "supportPercentage": 3.07,
+    "transactionCount": 605,
+    "size": 2
+  },
+  {
+    "id": "itemset-0129",
+    "items": [
+      "HOT BATHS METAL SIGN"
+    ],
+    "itemsetString": "HOT BATHS METAL SIGN",
+    "support": 0.030606,
+    "supportPercentage": 3.06,
+    "transactionCount": 604,
+    "size": 1
+  },
+  {
+    "id": "itemset-0130",
+    "items": [
+      "TRADITIONAL KNITTING NANCY"
+    ],
+    "itemsetString": "TRADITIONAL KNITTING NANCY",
+    "support": 0.030606,
+    "supportPercentage": 3.06,
+    "transactionCount": 604,
+    "size": 1
+  },
+  {
+    "id": "itemset-0131",
+    "items": [
+      "PAPER CHAIN KIT RETROSPOT"
+    ],
+    "itemsetString": "PAPER CHAIN KIT RETROSPOT",
+    "support": 0.030454,
+    "supportPercentage": 3.05,
+    "transactionCount": 601,
+    "size": 1
+  },
+  {
+    "id": "itemset-0132",
+    "items": [
+      "60 CAKE CASES VINTAGE CHRISTMAS"
+    ],
+    "itemsetString": "60 CAKE CASES VINTAGE CHRISTMAS",
+    "support": 0.030403,
+    "supportPercentage": 3.04,
+    "transactionCount": 600,
+    "size": 1
+  },
+  {
+    "id": "itemset-0133",
+    "items": [
+      "VINTAGE HEADS AND TAILS CARD GAME"
+    ],
+    "itemsetString": "VINTAGE HEADS AND TAILS CARD GAME",
+    "support": 0.030149,
+    "supportPercentage": 3.01,
+    "transactionCount": 595,
+    "size": 1
+  },
+  {
+    "id": "itemset-0134",
+    "items": [
+      "LUNCH BAG PINK POLKADOT",
+      "LUNCH BAG RED RETROSPOT"
+    ],
+    "itemsetString": "LUNCH BAG PINK POLKADOT, LUNCH BAG RED RETROSPOT",
+    "support": 0.030048,
+    "supportPercentage": 3.0,
+    "transactionCount": 593,
+    "size": 2
+  },
+  {
+    "id": "itemset-0135",
+    "items": [
+      "72 SWEETHEART FAIRY CAKE CASES"
+    ],
+    "itemsetString": "72 SWEETHEART FAIRY CAKE CASES",
+    "support": 0.029997,
+    "supportPercentage": 3.0,
+    "transactionCount": 592,
+    "size": 1
+  },
+  {
+    "id": "itemset-0136",
+    "items": [
+      "LUNCH BAG VINTAGE DOILY"
+    ],
+    "itemsetString": "LUNCH BAG VINTAGE DOILY",
+    "support": 0.029947,
+    "supportPercentage": 2.99,
+    "transactionCount": 591,
+    "size": 1
+  },
+  {
+    "id": "itemset-0137",
+    "items": [
+      "SET OF 20 VINTAGE CHRISTMAS NAPKINS"
+    ],
+    "itemsetString": "SET OF 20 VINTAGE CHRISTMAS NAPKINS",
+    "support": 0.029896,
+    "supportPercentage": 2.99,
+    "transactionCount": 590,
+    "size": 1
+  },
+  {
+    "id": "itemset-0138",
+    "items": [
+      "HANGING HEART ZINC T-LIGHT HOLDER"
+    ],
+    "itemsetString": "HANGING HEART ZINC T-LIGHT HOLDER",
+    "support": 0.029744,
+    "supportPercentage": 2.97,
+    "transactionCount": 587,
+    "size": 1
+  },
+  {
+    "id": "itemset-0139",
+    "items": [
+      "JUMBO BAG PEARS"
+    ],
+    "itemsetString": "JUMBO BAG PEARS",
+    "support": 0.029693,
+    "supportPercentage": 2.97,
+    "transactionCount": 586,
+    "size": 1
+  },
+  {
+    "id": "itemset-0140",
+    "items": [
+      "BLUE HARMONICA IN BOX"
+    ],
+    "itemsetString": "BLUE HARMONICA IN BOX",
+    "support": 0.029592,
+    "supportPercentage": 2.96,
+    "transactionCount": 584,
+    "size": 1
+  },
+  {
+    "id": "itemset-0141",
+    "items": [
+      "PACK OF 60 DINOSAUR CAKE CASES"
+    ],
+    "itemsetString": "PACK OF 60 DINOSAUR CAKE CASES",
+    "support": 0.02944,
+    "supportPercentage": 2.94,
+    "transactionCount": 581,
+    "size": 1
+  },
+  {
+    "id": "itemset-0142",
+    "items": [
+      "JUMBO  BAG BAROQUE BLACK WHITE",
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "itemsetString": "JUMBO  BAG BAROQUE BLACK WHITE, JUMBO BAG RED RETROSPOT",
+    "support": 0.029389,
+    "supportPercentage": 2.94,
+    "transactionCount": 580,
+    "size": 2
+  },
+  {
+    "id": "itemset-0143",
+    "items": [
+      "CHARLOTTE BAG APPLES DESIGN"
+    ],
+    "itemsetString": "CHARLOTTE BAG APPLES DESIGN",
+    "support": 0.029339,
+    "supportPercentage": 2.93,
+    "transactionCount": 579,
+    "size": 1
+  },
+  {
+    "id": "itemset-0144",
+    "items": [
+      "DOORMAT HEARTS"
+    ],
+    "itemsetString": "DOORMAT HEARTS",
+    "support": 0.029288,
+    "supportPercentage": 2.93,
+    "transactionCount": 578,
+    "size": 1
+  },
+  {
+    "id": "itemset-0145",
+    "items": [
+      "SMALL POPCORN HOLDER"
+    ],
+    "itemsetString": "SMALL POPCORN HOLDER",
+    "support": 0.029237,
+    "supportPercentage": 2.92,
+    "transactionCount": 577,
+    "size": 1
+  },
+  {
+    "id": "itemset-0146",
+    "items": [
+      "BOX OF 24 COCKTAIL PARASOLS"
+    ],
+    "itemsetString": "BOX OF 24 COCKTAIL PARASOLS",
+    "support": 0.029187,
+    "supportPercentage": 2.92,
+    "transactionCount": 576,
+    "size": 1
+  },
+  {
+    "id": "itemset-0147",
+    "items": [
+      "DOORMAT NEW ENGLAND"
+    ],
+    "itemsetString": "DOORMAT NEW ENGLAND",
+    "support": 0.029136,
+    "supportPercentage": 2.91,
+    "transactionCount": 575,
+    "size": 1
+  },
+  {
+    "id": "itemset-0148",
+    "items": [
+      "ROUND SNACK BOXES SET OF 4 FRUITS"
+    ],
+    "itemsetString": "ROUND SNACK BOXES SET OF 4 FRUITS",
+    "support": 0.029136,
+    "supportPercentage": 2.91,
+    "transactionCount": 575,
+    "size": 1
+  },
+  {
+    "id": "itemset-0149",
+    "items": [
+      "WOODEN BOX OF DOMINOES"
+    ],
+    "itemsetString": "WOODEN BOX OF DOMINOES",
+    "support": 0.029085,
+    "supportPercentage": 2.91,
+    "transactionCount": 574,
+    "size": 1
+  },
+  {
+    "id": "itemset-0150",
+    "items": [
+      "JUMBO BAG RED RETROSPOT",
+      "LUNCH BAG RED RETROSPOT"
+    ],
+    "itemsetString": "JUMBO BAG RED RETROSPOT, LUNCH BAG RED RETROSPOT",
+    "support": 0.029035,
+    "supportPercentage": 2.9,
+    "transactionCount": 573,
+    "size": 2
+  },
+  {
+    "id": "itemset-0151",
+    "items": [
+      "RED RETROSPOT SHOPPER BAG"
+    ],
+    "itemsetString": "RED RETROSPOT SHOPPER BAG",
+    "support": 0.028883,
+    "supportPercentage": 2.89,
+    "transactionCount": 570,
+    "size": 1
+  },
+  {
+    "id": "itemset-0152",
+    "items": [
+      "PINK REGENCY TEACUP AND SAUCER",
+      "ROSES REGENCY TEACUP AND SAUCER"
+    ],
+    "itemsetString": "PINK REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER",
+    "support": 0.028883,
+    "supportPercentage": 2.89,
+    "transactionCount": 570,
+    "size": 2
+  },
+  {
+    "id": "itemset-0153",
+    "items": [
+      "STRAWBERRY LUNCH BOX WITH CUTLERY"
+    ],
+    "itemsetString": "STRAWBERRY LUNCH BOX WITH CUTLERY",
+    "support": 0.028832,
+    "supportPercentage": 2.88,
+    "transactionCount": 569,
+    "size": 1
+  },
+  {
+    "id": "itemset-0154",
+    "items": [
+      "ALARM CLOCK BAKELIKE IVORY"
+    ],
+    "itemsetString": "ALARM CLOCK BAKELIKE IVORY",
+    "support": 0.028427,
+    "supportPercentage": 2.84,
+    "transactionCount": 561,
+    "size": 1
+  },
+  {
+    "id": "itemset-0155",
+    "items": [
+      "PLASTERS IN TIN VINTAGE PAISLEY"
+    ],
+    "itemsetString": "PLASTERS IN TIN VINTAGE PAISLEY",
+    "support": 0.028173,
+    "supportPercentage": 2.82,
+    "transactionCount": 556,
+    "size": 1
+  },
+  {
+    "id": "itemset-0156",
+    "items": [
+      "LARGE WHITE HEART OF WICKER"
+    ],
+    "itemsetString": "LARGE WHITE HEART OF WICKER",
+    "support": 0.028123,
+    "supportPercentage": 2.81,
+    "transactionCount": 555,
+    "size": 1
+  },
+  {
+    "id": "itemset-0157",
+    "items": [
+      "PLASTERS IN TIN SKULLS"
+    ],
+    "itemsetString": "PLASTERS IN TIN SKULLS",
+    "support": 0.028072,
+    "supportPercentage": 2.81,
+    "transactionCount": 554,
+    "size": 1
+  },
+  {
+    "id": "itemset-0158",
+    "items": [
+      "LUNCH BAG RED RETROSPOT",
+      "LUNCH BAG SUKI DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG RED RETROSPOT, LUNCH BAG SUKI DESIGN",
+    "support": 0.028072,
+    "supportPercentage": 2.81,
+    "transactionCount": 554,
+    "size": 2
+  },
+  {
+    "id": "itemset-0159",
+    "items": [
+      "LUNCH BAG RED RETROSPOT",
+      "LUNCH BAG SPACEBOY DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG RED RETROSPOT, LUNCH BAG SPACEBOY DESIGN",
+    "support": 0.028021,
+    "supportPercentage": 2.8,
+    "transactionCount": 553,
+    "size": 2
+  },
+  {
+    "id": "itemset-0160",
+    "items": [
+      "HAND WARMER BIRD DESIGN"
+    ],
+    "itemsetString": "HAND WARMER BIRD DESIGN",
+    "support": 0.027971,
+    "supportPercentage": 2.8,
+    "transactionCount": 552,
+    "size": 1
+  },
+  {
+    "id": "itemset-0161",
+    "items": [
+      "PLASTERS IN TIN CIRCUS PARADE"
+    ],
+    "itemsetString": "PLASTERS IN TIN CIRCUS PARADE",
+    "support": 0.027869,
+    "supportPercentage": 2.79,
+    "transactionCount": 550,
+    "size": 1
+  },
+  {
+    "id": "itemset-0162",
+    "items": [
+      "GREY HEART HOT WATER BOTTLE"
+    ],
+    "itemsetString": "GREY HEART HOT WATER BOTTLE",
+    "support": 0.027819,
+    "supportPercentage": 2.78,
+    "transactionCount": 549,
+    "size": 1
+  },
+  {
+    "id": "itemset-0163",
+    "items": [
+      "LUNCH BAG CARS BLUE",
+      "LUNCH BAG RED RETROSPOT"
+    ],
+    "itemsetString": "LUNCH BAG CARS BLUE, LUNCH BAG RED RETROSPOT",
+    "support": 0.027616,
+    "supportPercentage": 2.76,
+    "transactionCount": 545,
+    "size": 2
+  },
+  {
+    "id": "itemset-0164",
+    "items": [
+      "PAPER CHAIN KIT 50'S CHRISTMAS",
+      "PAPER CHAIN KIT VINTAGE CHRISTMAS"
+    ],
+    "itemsetString": "PAPER CHAIN KIT 50'S CHRISTMAS, PAPER CHAIN KIT VINTAGE CHRISTMAS",
+    "support": 0.027616,
+    "supportPercentage": 2.76,
+    "transactionCount": 545,
+    "size": 2
+  },
+  {
+    "id": "itemset-0165",
+    "items": [
+      "HAND WARMER SCOTTY DOG DESIGN"
+    ],
+    "itemsetString": "HAND WARMER SCOTTY DOG DESIGN",
+    "support": 0.027565,
+    "supportPercentage": 2.76,
+    "transactionCount": 544,
+    "size": 1
+  },
+  {
+    "id": "itemset-0166",
+    "items": [
+      "GARDENERS KNEELING PAD CUP OF TEA",
+      "GARDENERS KNEELING PAD KEEP CALM"
+    ],
+    "itemsetString": "GARDENERS KNEELING PAD CUP OF TEA, GARDENERS KNEELING PAD KEEP CALM",
+    "support": 0.027565,
+    "supportPercentage": 2.76,
+    "transactionCount": 544,
+    "size": 2
+  },
+  {
+    "id": "itemset-0167",
+    "items": [
+      "LOVEBIRD HANGING DECORATION WHITE"
+    ],
+    "itemsetString": "LOVEBIRD HANGING DECORATION WHITE",
+    "support": 0.027515,
+    "supportPercentage": 2.75,
+    "transactionCount": 543,
+    "size": 1
+  },
+  {
+    "id": "itemset-0168",
+    "items": [
+      "JUMBO BAG APPLES",
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "itemsetString": "JUMBO BAG APPLES, JUMBO BAG RED RETROSPOT",
+    "support": 0.027413,
+    "supportPercentage": 2.74,
+    "transactionCount": 541,
+    "size": 2
+  },
+  {
+    "id": "itemset-0169",
+    "items": [
+      "CHILDRENS APRON SPACEBOY DESIGN"
+    ],
+    "itemsetString": "CHILDRENS APRON SPACEBOY DESIGN",
+    "support": 0.027363,
+    "supportPercentage": 2.74,
+    "transactionCount": 540,
+    "size": 1
+  },
+  {
+    "id": "itemset-0170",
+    "items": [
+      "WOOD 2 DRAWER CABINET WHITE FINISH"
+    ],
+    "itemsetString": "WOOD 2 DRAWER CABINET WHITE FINISH",
+    "support": 0.027312,
+    "supportPercentage": 2.73,
+    "transactionCount": 539,
+    "size": 1
+  },
+  {
+    "id": "itemset-0171",
+    "items": [
+      "SET OF 12 FAIRY CAKE BAKING CASES"
+    ],
+    "itemsetString": "SET OF 12 FAIRY CAKE BAKING CASES",
+    "support": 0.027211,
+    "supportPercentage": 2.72,
+    "transactionCount": 537,
+    "size": 1
+  },
+  {
+    "id": "itemset-0172",
+    "items": [
+      "FELTCRAFT 6 FLOWER FRIENDS"
+    ],
+    "itemsetString": "FELTCRAFT 6 FLOWER FRIENDS",
+    "support": 0.02716,
+    "supportPercentage": 2.72,
+    "transactionCount": 536,
+    "size": 1
+  },
+  {
+    "id": "itemset-0173",
+    "items": [
+      "SMALL GLASS HEART TRINKET POT"
+    ],
+    "itemsetString": "SMALL GLASS HEART TRINKET POT",
+    "support": 0.02716,
+    "supportPercentage": 2.72,
+    "transactionCount": 536,
+    "size": 1
+  },
+  {
+    "id": "itemset-0174",
+    "items": [
+      "WOODEN FRAME ANTIQUE WHITE",
+      "WOODEN PICTURE FRAME WHITE FINISH"
+    ],
+    "itemsetString": "WOODEN FRAME ANTIQUE WHITE, WOODEN PICTURE FRAME WHITE FINISH",
+    "support": 0.02716,
+    "supportPercentage": 2.72,
+    "transactionCount": 536,
+    "size": 2
+  },
+  {
+    "id": "itemset-0175",
+    "items": [
+      "CHRISTMAS CRAFT LITTLE FRIENDS"
+    ],
+    "itemsetString": "CHRISTMAS CRAFT LITTLE FRIENDS",
+    "support": 0.027109,
+    "supportPercentage": 2.71,
+    "transactionCount": 535,
+    "size": 1
+  },
+  {
+    "id": "itemset-0176",
+    "items": [
+      "LUNCH BAG  BLACK SKULL.",
+      "LUNCH BAG PINK POLKADOT"
+    ],
+    "itemsetString": "LUNCH BAG  BLACK SKULL., LUNCH BAG PINK POLKADOT",
+    "support": 0.027109,
+    "supportPercentage": 2.71,
+    "transactionCount": 535,
+    "size": 2
+  },
+  {
+    "id": "itemset-0177",
+    "items": [
+      "POTTERING IN THE SHED METAL SIGN"
+    ],
+    "itemsetString": "POTTERING IN THE SHED METAL SIGN",
+    "support": 0.027059,
+    "supportPercentage": 2.71,
+    "transactionCount": 534,
+    "size": 1
+  },
+  {
+    "id": "itemset-0178",
+    "items": [
+      "TRAVEL CARD WALLET KEEP CALM"
+    ],
+    "itemsetString": "TRAVEL CARD WALLET KEEP CALM",
+    "support": 0.027059,
+    "supportPercentage": 2.71,
+    "transactionCount": 534,
+    "size": 1
+  },
+  {
+    "id": "itemset-0179",
+    "items": [
+      "JUMBO BAG RED RETROSPOT",
+      "JUMBO BAG WOODLAND ANIMALS"
+    ],
+    "itemsetString": "JUMBO BAG RED RETROSPOT, JUMBO BAG WOODLAND ANIMALS",
+    "support": 0.027008,
+    "supportPercentage": 2.7,
+    "transactionCount": 533,
+    "size": 2
+  },
+  {
+    "id": "itemset-0180",
+    "items": [
+      "SET 2 TEA TOWELS I LOVE LONDON"
+    ],
+    "itemsetString": "SET 2 TEA TOWELS I LOVE LONDON",
+    "support": 0.026957,
+    "supportPercentage": 2.7,
+    "transactionCount": 532,
+    "size": 1
+  },
+  {
+    "id": "itemset-0181",
+    "items": [
+      "JUMBO BAG RED RETROSPOT",
+      "JUMBO BAG STRAWBERRY"
+    ],
+    "itemsetString": "JUMBO BAG RED RETROSPOT, JUMBO BAG STRAWBERRY",
+    "support": 0.026805,
+    "supportPercentage": 2.68,
+    "transactionCount": 529,
+    "size": 2
+  },
+  {
+    "id": "itemset-0182",
+    "items": [
+      "SUKI  SHOULDER BAG"
+    ],
+    "itemsetString": "SUKI  SHOULDER BAG",
+    "support": 0.026704,
+    "supportPercentage": 2.67,
+    "transactionCount": 527,
+    "size": 1
+  },
+  {
+    "id": "itemset-0183",
+    "items": [
+      "RED KITCHEN SCALES"
+    ],
+    "itemsetString": "RED KITCHEN SCALES",
+    "support": 0.026653,
+    "supportPercentage": 2.67,
+    "transactionCount": 526,
+    "size": 1
+  },
+  {
+    "id": "itemset-0184",
+    "items": [
+      "DOLLY GIRL LUNCH BOX",
+      "SPACEBOY LUNCH BOX"
+    ],
+    "itemsetString": "DOLLY GIRL LUNCH BOX, SPACEBOY LUNCH BOX",
+    "support": 0.026602,
+    "supportPercentage": 2.66,
+    "transactionCount": 525,
+    "size": 2
+  },
+  {
+    "id": "itemset-0185",
+    "items": [
+      "RED RETROSPOT CAKE STAND"
+    ],
+    "itemsetString": "RED RETROSPOT CAKE STAND",
+    "support": 0.026552,
+    "supportPercentage": 2.66,
+    "transactionCount": 524,
+    "size": 1
+  },
+  {
+    "id": "itemset-0186",
+    "items": [
+      "JUMBO BAG TOYS"
+    ],
+    "itemsetString": "JUMBO BAG TOYS",
+    "support": 0.026501,
+    "supportPercentage": 2.65,
+    "transactionCount": 523,
+    "size": 1
+  },
+  {
+    "id": "itemset-0187",
+    "items": [
+      "SPACEBOY BIRTHDAY CARD"
+    ],
+    "itemsetString": "SPACEBOY BIRTHDAY CARD",
+    "support": 0.026501,
+    "supportPercentage": 2.65,
+    "transactionCount": 523,
+    "size": 1
+  },
+  {
+    "id": "itemset-0188",
+    "items": [
+      "ZINC METAL HEART DECORATION"
+    ],
+    "itemsetString": "ZINC METAL HEART DECORATION",
+    "support": 0.026501,
+    "supportPercentage": 2.65,
+    "transactionCount": 523,
+    "size": 1
+  },
+  {
+    "id": "itemset-0189",
+    "items": [
+      "SMALL DOLLY MIX DESIGN ORANGE BOWL"
+    ],
+    "itemsetString": "SMALL DOLLY MIX DESIGN ORANGE BOWL",
+    "support": 0.02645,
+    "supportPercentage": 2.65,
+    "transactionCount": 522,
+    "size": 1
+  },
+  {
+    "id": "itemset-0190",
+    "items": [
+      "WOODEN HEART CHRISTMAS SCANDINAVIAN"
+    ],
+    "itemsetString": "WOODEN HEART CHRISTMAS SCANDINAVIAN",
+    "support": 0.02645,
+    "supportPercentage": 2.65,
+    "transactionCount": 522,
+    "size": 1
+  },
+  {
+    "id": "itemset-0191",
+    "items": [
+      "EDWARDIAN PARASOL NATURAL"
+    ],
+    "itemsetString": "EDWARDIAN PARASOL NATURAL",
+    "support": 0.0264,
+    "supportPercentage": 2.64,
+    "transactionCount": 521,
+    "size": 1
+  },
+  {
+    "id": "itemset-0192",
+    "items": [
+      "CHARLOTTE BAG PINK POLKADOT",
+      "RED RETROSPOT CHARLOTTE BAG"
+    ],
+    "itemsetString": "CHARLOTTE BAG PINK POLKADOT, RED RETROSPOT CHARLOTTE BAG",
+    "support": 0.026349,
+    "supportPercentage": 2.63,
+    "transactionCount": 520,
+    "size": 2
+  },
+  {
+    "id": "itemset-0193",
+    "items": [
+      "JUMBO SHOPPER VINTAGE RED PAISLEY",
+      "JUMBO STORAGE BAG SUKI"
+    ],
+    "itemsetString": "JUMBO SHOPPER VINTAGE RED PAISLEY, JUMBO STORAGE BAG SUKI",
+    "support": 0.026349,
+    "supportPercentage": 2.63,
+    "transactionCount": 520,
+    "size": 2
+  },
+  {
+    "id": "itemset-0194",
+    "items": [
+      "LUNCH BAG RED RETROSPOT",
+      "LUNCH BAG WOODLAND"
+    ],
+    "itemsetString": "LUNCH BAG RED RETROSPOT, LUNCH BAG WOODLAND",
+    "support": 0.026349,
+    "supportPercentage": 2.63,
+    "transactionCount": 520,
+    "size": 2
+  },
+  {
+    "id": "itemset-0195",
+    "items": [
+      "RED RETROSPOT PICNIC BAG"
+    ],
+    "itemsetString": "RED RETROSPOT PICNIC BAG",
+    "support": 0.026248,
+    "supportPercentage": 2.62,
+    "transactionCount": 518,
+    "size": 1
+  },
+  {
+    "id": "itemset-0196",
+    "items": [
+      "LUNCH BAG  BLACK SKULL.",
+      "LUNCH BAG CARS BLUE"
+    ],
+    "itemsetString": "LUNCH BAG  BLACK SKULL., LUNCH BAG CARS BLUE",
+    "support": 0.026248,
+    "supportPercentage": 2.62,
+    "transactionCount": 518,
+    "size": 2
+  },
+  {
+    "id": "itemset-0197",
+    "items": [
+      "PINK BLUE FELT CRAFT TRINKET BOX"
+    ],
+    "itemsetString": "PINK BLUE FELT CRAFT TRINKET BOX",
+    "support": 0.026197,
+    "supportPercentage": 2.62,
+    "transactionCount": 517,
+    "size": 1
+  },
+  {
+    "id": "itemset-0198",
+    "items": [
+      "SET/6 RED SPOTTY PAPER PLATES"
+    ],
+    "itemsetString": "SET/6 RED SPOTTY PAPER PLATES",
+    "support": 0.026197,
+    "supportPercentage": 2.62,
+    "transactionCount": 517,
+    "size": 1
+  },
+  {
+    "id": "itemset-0199",
+    "items": [
+      "WORLD WAR 2 GLIDERS ASSTD DESIGNS"
+    ],
+    "itemsetString": "WORLD WAR 2 GLIDERS ASSTD DESIGNS",
+    "support": 0.026197,
+    "supportPercentage": 2.62,
+    "transactionCount": 517,
+    "size": 1
+  },
+  {
+    "id": "itemset-0200",
+    "items": [
+      "CREAM HEART CARD HOLDER"
+    ],
+    "itemsetString": "CREAM HEART CARD HOLDER",
+    "support": 0.026146,
+    "supportPercentage": 2.61,
+    "transactionCount": 516,
+    "size": 1
+  },
+  {
+    "id": "itemset-0201",
+    "items": [
+      "GREEN REGENCY TEACUP AND SAUCER",
+      "PINK REGENCY TEACUP AND SAUCER",
+      "ROSES REGENCY TEACUP AND SAUCER"
+    ],
+    "itemsetString": "GREEN REGENCY TEACUP AND SAUCER, PINK REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER",
+    "support": 0.026096,
+    "supportPercentage": 2.61,
+    "transactionCount": 515,
+    "size": 3
+  },
+  {
+    "id": "itemset-0202",
+    "items": [
+      "ASSORTED COLOURS SILK FAN"
+    ],
+    "itemsetString": "ASSORTED COLOURS SILK FAN",
+    "support": 0.026045,
+    "supportPercentage": 2.6,
+    "transactionCount": 514,
+    "size": 1
+  },
+  {
+    "id": "itemset-0203",
+    "items": [
+      "JUMBO BAG PINK POLKADOT",
+      "JUMBO STORAGE BAG SUKI"
+    ],
+    "itemsetString": "JUMBO BAG PINK POLKADOT, JUMBO STORAGE BAG SUKI",
+    "support": 0.026045,
+    "supportPercentage": 2.6,
+    "transactionCount": 514,
+    "size": 2
+  },
+  {
+    "id": "itemset-0204",
+    "items": [
+      "JUMBO BAG PINK VINTAGE PAISLEY",
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "itemsetString": "JUMBO BAG PINK VINTAGE PAISLEY, JUMBO BAG RED RETROSPOT",
+    "support": 0.025944,
+    "supportPercentage": 2.59,
+    "transactionCount": 512,
+    "size": 2
+  },
+  {
+    "id": "itemset-0205",
+    "items": [
+      "LUNCH BAG  BLACK SKULL.",
+      "LUNCH BAG SUKI DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG  BLACK SKULL., LUNCH BAG SUKI DESIGN",
+    "support": 0.025944,
+    "supportPercentage": 2.59,
+    "transactionCount": 512,
+    "size": 2
+  },
+  {
+    "id": "itemset-0206",
+    "items": [
+      "PACK OF 12 LONDON TISSUES"
+    ],
+    "itemsetString": "PACK OF 12 LONDON TISSUES",
+    "support": 0.025893,
+    "supportPercentage": 2.59,
+    "transactionCount": 511,
+    "size": 1
+  },
+  {
+    "id": "itemset-0207",
+    "items": [
+      "JUMBO BAG DOILEY PATTERNS"
+    ],
+    "itemsetString": "JUMBO BAG DOILEY PATTERNS",
+    "support": 0.025842,
+    "supportPercentage": 2.58,
+    "transactionCount": 510,
+    "size": 1
+  },
+  {
+    "id": "itemset-0208",
+    "items": [
+      "SET OF 20 KIDS COOKIE CUTTERS"
+    ],
+    "itemsetString": "SET OF 20 KIDS COOKIE CUTTERS",
+    "support": 0.02569,
+    "supportPercentage": 2.57,
+    "transactionCount": 507,
+    "size": 1
+  },
+  {
+    "id": "itemset-0209",
+    "items": [
+      "LUNCH BAG  BLACK SKULL.",
+      "LUNCH BAG SPACEBOY DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG  BLACK SKULL., LUNCH BAG SPACEBOY DESIGN",
+    "support": 0.02569,
+    "supportPercentage": 2.57,
+    "transactionCount": 507,
+    "size": 2
+  },
+  {
+    "id": "itemset-0210",
+    "items": [
+      "CREAM SWEETHEART MINI CHEST"
+    ],
+    "itemsetString": "CREAM SWEETHEART MINI CHEST",
+    "support": 0.025589,
+    "supportPercentage": 2.56,
+    "transactionCount": 505,
+    "size": 1
+  },
+  {
+    "id": "itemset-0211",
+    "items": [
+      "CHARLOTTE BAG SUKI DESIGN",
+      "RED RETROSPOT CHARLOTTE BAG"
+    ],
+    "itemsetString": "CHARLOTTE BAG SUKI DESIGN, RED RETROSPOT CHARLOTTE BAG",
+    "support": 0.025589,
+    "supportPercentage": 2.56,
+    "transactionCount": 505,
+    "size": 2
+  },
+  {
+    "id": "itemset-0212",
+    "items": [
+      "SWEETHEART CERAMIC TRINKET BOX"
+    ],
+    "itemsetString": "SWEETHEART CERAMIC TRINKET BOX",
+    "support": 0.025538,
+    "supportPercentage": 2.55,
+    "transactionCount": 504,
+    "size": 1
+  },
+  {
+    "id": "itemset-0213",
+    "items": [
+      "PACK OF 60 SPACEBOY CAKE CASES"
+    ],
+    "itemsetString": "PACK OF 60 SPACEBOY CAKE CASES",
+    "support": 0.025488,
+    "supportPercentage": 2.55,
+    "transactionCount": 503,
+    "size": 1
+  },
+  {
+    "id": "itemset-0214",
+    "items": [
+      "RED RETROSPOT CHARLOTTE BAG",
+      "WOODLAND CHARLOTTE BAG"
+    ],
+    "itemsetString": "RED RETROSPOT CHARLOTTE BAG, WOODLAND CHARLOTTE BAG",
+    "support": 0.025488,
+    "supportPercentage": 2.55,
+    "transactionCount": 503,
+    "size": 2
+  },
+  {
+    "id": "itemset-0215",
+    "items": [
+      "SET OF 72 PINK HEART PAPER DOILIES"
+    ],
+    "itemsetString": "SET OF 72 PINK HEART PAPER DOILIES",
+    "support": 0.025437,
+    "supportPercentage": 2.54,
+    "transactionCount": 502,
+    "size": 1
+  },
+  {
+    "id": "itemset-0216",
+    "items": [
+      "SINGLE HEART ZINC T-LIGHT HOLDER"
+    ],
+    "itemsetString": "SINGLE HEART ZINC T-LIGHT HOLDER",
+    "support": 0.025336,
+    "supportPercentage": 2.53,
+    "transactionCount": 500,
+    "size": 1
+  },
+  {
+    "id": "itemset-0217",
+    "items": [
+      "PLASTERS IN TIN STRONGMAN"
+    ],
+    "itemsetString": "PLASTERS IN TIN STRONGMAN",
+    "support": 0.025285,
+    "supportPercentage": 2.53,
+    "transactionCount": 499,
+    "size": 1
+  },
+  {
+    "id": "itemset-0218",
+    "items": [
+      "LUNCH BAG CARS BLUE",
+      "LUNCH BAG PINK POLKADOT"
+    ],
+    "itemsetString": "LUNCH BAG CARS BLUE, LUNCH BAG PINK POLKADOT",
+    "support": 0.025133,
+    "supportPercentage": 2.51,
+    "transactionCount": 496,
+    "size": 2
+  },
+  {
+    "id": "itemset-0219",
+    "items": [
+      "WOODEN STAR CHRISTMAS SCANDINAVIAN"
+    ],
+    "itemsetString": "WOODEN STAR CHRISTMAS SCANDINAVIAN",
+    "support": 0.025082,
+    "supportPercentage": 2.51,
+    "transactionCount": 495,
+    "size": 1
+  },
+  {
+    "id": "itemset-0220",
+    "items": [
+      "WHITE SKULL HOT WATER BOTTLE"
+    ],
+    "itemsetString": "WHITE SKULL HOT WATER BOTTLE",
+    "support": 0.024981,
+    "supportPercentage": 2.5,
+    "transactionCount": 493,
+    "size": 1
+  },
+  {
+    "id": "itemset-0221",
+    "items": [
+      "NO SINGING METAL SIGN"
+    ],
+    "itemsetString": "NO SINGING METAL SIGN",
+    "support": 0.02493,
+    "supportPercentage": 2.49,
+    "transactionCount": 492,
+    "size": 1
+  },
+  {
+    "id": "itemset-0222",
+    "items": [
+      "ENAMEL FLOWER JUG CREAM"
+    ],
+    "itemsetString": "ENAMEL FLOWER JUG CREAM",
+    "support": 0.02488,
+    "supportPercentage": 2.49,
+    "transactionCount": 491,
+    "size": 1
+  },
+  {
+    "id": "itemset-0223",
+    "items": [
+      "REGENCY CAKESTAND 3 TIER",
+      "ROSES REGENCY TEACUP AND SAUCER"
+    ],
+    "itemsetString": "REGENCY CAKESTAND 3 TIER, ROSES REGENCY TEACUP AND SAUCER",
+    "support": 0.024778,
+    "supportPercentage": 2.48,
+    "transactionCount": 489,
+    "size": 2
+  },
+  {
+    "id": "itemset-0224",
+    "items": [
+      "METAL 4 HOOK HANGER FRENCH CHATEAU"
+    ],
+    "itemsetString": "METAL 4 HOOK HANGER FRENCH CHATEAU",
+    "support": 0.024728,
+    "supportPercentage": 2.47,
+    "transactionCount": 488,
+    "size": 1
+  },
+  {
+    "id": "itemset-0225",
+    "items": [
+      "LUNCH BAG DOILEY PATTERN"
+    ],
+    "itemsetString": "LUNCH BAG DOILEY PATTERN",
+    "support": 0.024626,
+    "supportPercentage": 2.46,
+    "transactionCount": 486,
+    "size": 1
+  },
+  {
+    "id": "itemset-0226",
+    "items": [
+      "DOTCOM POSTAGE",
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "itemsetString": "DOTCOM POSTAGE, JUMBO BAG RED RETROSPOT",
+    "support": 0.024576,
+    "supportPercentage": 2.46,
+    "transactionCount": 485,
+    "size": 2
+  },
+  {
+    "id": "itemset-0227",
+    "items": [
+      "HEART OF WICKER LARGE",
+      "HEART OF WICKER SMALL"
+    ],
+    "itemsetString": "HEART OF WICKER LARGE, HEART OF WICKER SMALL",
+    "support": 0.024576,
+    "supportPercentage": 2.46,
+    "transactionCount": 485,
+    "size": 2
+  },
+  {
+    "id": "itemset-0228",
+    "items": [
+      "FAWN BLUE HOT WATER BOTTLE"
+    ],
+    "itemsetString": "FAWN BLUE HOT WATER BOTTLE",
+    "support": 0.024474,
+    "supportPercentage": 2.45,
+    "transactionCount": 483,
+    "size": 1
+  },
+  {
+    "id": "itemset-0229",
+    "items": [
+      "PHOTO FRAME CORNICE"
+    ],
+    "itemsetString": "PHOTO FRAME CORNICE",
+    "support": 0.024424,
+    "supportPercentage": 2.44,
+    "transactionCount": 482,
+    "size": 1
+  },
+  {
+    "id": "itemset-0230",
+    "items": [
+      "PINK FAIRY CAKE CHILDRENS APRON"
+    ],
+    "itemsetString": "PINK FAIRY CAKE CHILDRENS APRON",
+    "support": 0.024424,
+    "supportPercentage": 2.44,
+    "transactionCount": 482,
+    "size": 1
+  },
+  {
+    "id": "itemset-0231",
+    "items": [
+      "LUNCH BAG APPLE DESIGN",
+      "LUNCH BAG RED RETROSPOT"
+    ],
+    "itemsetString": "LUNCH BAG APPLE DESIGN, LUNCH BAG RED RETROSPOT",
+    "support": 0.024424,
+    "supportPercentage": 2.44,
+    "transactionCount": 482,
+    "size": 2
+  },
+  {
+    "id": "itemset-0232",
+    "items": [
+      "RED RETROSPOT CHARLOTTE BAG",
+      "STRAWBERRY CHARLOTTE BAG"
+    ],
+    "itemsetString": "RED RETROSPOT CHARLOTTE BAG, STRAWBERRY CHARLOTTE BAG",
+    "support": 0.024424,
+    "supportPercentage": 2.44,
+    "transactionCount": 482,
+    "size": 2
+  },
+  {
+    "id": "itemset-0233",
+    "items": [
+      "LUNCH BOX WITH CUTLERY RETROSPOT"
+    ],
+    "itemsetString": "LUNCH BOX WITH CUTLERY RETROSPOT",
+    "support": 0.024373,
+    "supportPercentage": 2.44,
+    "transactionCount": 481,
+    "size": 1
+  },
+  {
+    "id": "itemset-0234",
+    "items": [
+      "GREEN REGENCY TEACUP AND SAUCER",
+      "REGENCY CAKESTAND 3 TIER"
+    ],
+    "itemsetString": "GREEN REGENCY TEACUP AND SAUCER, REGENCY CAKESTAND 3 TIER",
+    "support": 0.024373,
+    "supportPercentage": 2.44,
+    "transactionCount": 481,
+    "size": 2
+  },
+  {
+    "id": "itemset-0235",
+    "items": [
+      "HAND WARMER UNION JACK"
+    ],
+    "itemsetString": "HAND WARMER UNION JACK",
+    "support": 0.024272,
+    "supportPercentage": 2.43,
+    "transactionCount": 479,
+    "size": 1
+  },
+  {
+    "id": "itemset-0236",
+    "items": [
+      "RED HANGING HEART T-LIGHT HOLDER",
+      "WHITE HANGING HEART T-LIGHT HOLDER"
+    ],
+    "itemsetString": "RED HANGING HEART T-LIGHT HOLDER, WHITE HANGING HEART T-LIGHT HOLDER",
+    "support": 0.024272,
+    "supportPercentage": 2.43,
+    "transactionCount": 479,
+    "size": 2
+  },
+  {
+    "id": "itemset-0237",
+    "items": [
+      "LUNCH BAG CARS BLUE",
+      "LUNCH BAG SPACEBOY DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG CARS BLUE, LUNCH BAG SPACEBOY DESIGN",
+    "support": 0.024221,
+    "supportPercentage": 2.42,
+    "transactionCount": 478,
+    "size": 2
+  },
+  {
+    "id": "itemset-0238",
+    "items": [
+      "RED RETROSPOT PEG BAG"
+    ],
+    "itemsetString": "RED RETROSPOT PEG BAG",
+    "support": 0.02412,
+    "supportPercentage": 2.41,
+    "transactionCount": 476,
+    "size": 1
+  },
+  {
+    "id": "itemset-0239",
+    "items": [
+      "LUNCH BAG SPACEBOY DESIGN",
+      "LUNCH BAG WOODLAND"
+    ],
+    "itemsetString": "LUNCH BAG SPACEBOY DESIGN, LUNCH BAG WOODLAND",
+    "support": 0.02412,
+    "supportPercentage": 2.41,
+    "transactionCount": 476,
+    "size": 2
+  },
+  {
+    "id": "itemset-0240",
+    "items": [
+      "DOORMAT FANCY FONT HOME SWEET HOME"
+    ],
+    "itemsetString": "DOORMAT FANCY FONT HOME SWEET HOME",
+    "support": 0.024018,
+    "supportPercentage": 2.4,
+    "transactionCount": 474,
+    "size": 1
+  },
+  {
+    "id": "itemset-0241",
+    "items": [
+      "PARTY BUNTING",
+      "SPOTTY BUNTING"
+    ],
+    "itemsetString": "PARTY BUNTING, SPOTTY BUNTING",
+    "support": 0.023968,
+    "supportPercentage": 2.4,
+    "transactionCount": 473,
+    "size": 2
+  },
+  {
+    "id": "itemset-0242",
+    "items": [
+      "VINTAGE UNION JACK BUNTING"
+    ],
+    "itemsetString": "VINTAGE UNION JACK BUNTING",
+    "support": 0.023917,
+    "supportPercentage": 2.39,
+    "transactionCount": 472,
+    "size": 1
+  },
+  {
+    "id": "itemset-0243",
+    "items": [
+      "FELTCRAFT BUTTERFLY HEARTS"
+    ],
+    "itemsetString": "FELTCRAFT BUTTERFLY HEARTS",
+    "support": 0.023866,
+    "supportPercentage": 2.39,
+    "transactionCount": 471,
+    "size": 1
+  },
+  {
+    "id": "itemset-0244",
+    "items": [
+      "LADIES & GENTLEMEN METAL SIGN"
+    ],
+    "itemsetString": "LADIES & GENTLEMEN METAL SIGN",
+    "support": 0.023866,
+    "supportPercentage": 2.39,
+    "transactionCount": 471,
+    "size": 1
+  },
+  {
+    "id": "itemset-0245",
+    "items": [
+      "JUMBO BAG VINTAGE CHRISTMAS"
+    ],
+    "itemsetString": "JUMBO BAG VINTAGE CHRISTMAS",
+    "support": 0.023816,
+    "supportPercentage": 2.38,
+    "transactionCount": 470,
+    "size": 1
+  },
+  {
+    "id": "itemset-0246",
+    "items": [
+      "NATURAL SLATE CHALKBOARD LARGE"
+    ],
+    "itemsetString": "NATURAL SLATE CHALKBOARD LARGE",
+    "support": 0.023714,
+    "supportPercentage": 2.37,
+    "transactionCount": 468,
+    "size": 1
+  },
+  {
+    "id": "itemset-0247",
+    "items": [
+      "SMALL HEART MEASURING SPOONS"
+    ],
+    "itemsetString": "SMALL HEART MEASURING SPOONS",
+    "support": 0.023664,
+    "supportPercentage": 2.37,
+    "transactionCount": 467,
+    "size": 1
+  },
+  {
+    "id": "itemset-0248",
+    "items": [
+      "JUMBO BAG PINK POLKADOT",
+      "JUMBO SHOPPER VINTAGE RED PAISLEY"
+    ],
+    "itemsetString": "JUMBO BAG PINK POLKADOT, JUMBO SHOPPER VINTAGE RED PAISLEY",
+    "support": 0.023664,
+    "supportPercentage": 2.37,
+    "transactionCount": 467,
+    "size": 2
+  },
+  {
+    "id": "itemset-0249",
+    "items": [
+      "LUNCH BAG CARS BLUE",
+      "LUNCH BAG SUKI DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG CARS BLUE, LUNCH BAG SUKI DESIGN",
+    "support": 0.023664,
+    "supportPercentage": 2.37,
+    "transactionCount": 467,
+    "size": 2
+  },
+  {
+    "id": "itemset-0250",
+    "items": [
+      "TOY TIDY PINK POLKADOT"
+    ],
+    "itemsetString": "TOY TIDY PINK POLKADOT",
+    "support": 0.023613,
+    "supportPercentage": 2.36,
+    "transactionCount": 466,
+    "size": 1
+  },
+  {
+    "id": "itemset-0251",
+    "items": [
+      "LOVE HOT WATER BOTTLE"
+    ],
+    "itemsetString": "LOVE HOT WATER BOTTLE",
+    "support": 0.023562,
+    "supportPercentage": 2.36,
+    "transactionCount": 465,
+    "size": 1
+  },
+  {
+    "id": "itemset-0252",
+    "items": [
+      "PARTY METAL SIGN"
+    ],
+    "itemsetString": "PARTY METAL SIGN",
+    "support": 0.023562,
+    "supportPercentage": 2.36,
+    "transactionCount": 465,
+    "size": 1
+  },
+  {
+    "id": "itemset-0253",
+    "items": [
+      "4 TRADITIONAL SPINNING TOPS"
+    ],
+    "itemsetString": "4 TRADITIONAL SPINNING TOPS",
+    "support": 0.023512,
+    "supportPercentage": 2.35,
+    "transactionCount": 464,
+    "size": 1
+  },
+  {
+    "id": "itemset-0254",
+    "items": [
+      "DOORMAT SPOTTY HOME SWEET HOME"
+    ],
+    "itemsetString": "DOORMAT SPOTTY HOME SWEET HOME",
+    "support": 0.023461,
+    "supportPercentage": 2.35,
+    "transactionCount": 463,
+    "size": 1
+  },
+  {
+    "id": "itemset-0255",
+    "items": [
+      "CHOCOLATE THIS WAY METAL SIGN"
+    ],
+    "itemsetString": "CHOCOLATE THIS WAY METAL SIGN",
+    "support": 0.02341,
+    "supportPercentage": 2.34,
+    "transactionCount": 462,
+    "size": 1
+  },
+  {
+    "id": "itemset-0256",
+    "items": [
+      "TEA TIME PARTY BUNTING"
+    ],
+    "itemsetString": "TEA TIME PARTY BUNTING",
+    "support": 0.02341,
+    "supportPercentage": 2.34,
+    "transactionCount": 462,
+    "size": 1
+  },
+  {
+    "id": "itemset-0257",
+    "items": [
+      "FELTCRAFT CUSHION OWL"
+    ],
+    "itemsetString": "FELTCRAFT CUSHION OWL",
+    "support": 0.02336,
+    "supportPercentage": 2.34,
+    "transactionCount": 461,
+    "size": 1
+  },
+  {
+    "id": "itemset-0258",
+    "items": [
+      "SET/3 RED GINGHAM ROSE STORAGE BOX"
+    ],
+    "itemsetString": "SET/3 RED GINGHAM ROSE STORAGE BOX",
+    "support": 0.023309,
+    "supportPercentage": 2.33,
+    "transactionCount": 460,
+    "size": 1
+  },
+  {
+    "id": "itemset-0259",
+    "items": [
+      "PANTRY MAGNETIC  SHOPPING LIST"
+    ],
+    "itemsetString": "PANTRY MAGNETIC  SHOPPING LIST",
+    "support": 0.023207,
+    "supportPercentage": 2.32,
+    "transactionCount": 458,
+    "size": 1
+  },
+  {
+    "id": "itemset-0260",
+    "items": [
+      "3 STRIPEY MICE FELTCRAFT"
+    ],
+    "itemsetString": "3 STRIPEY MICE FELTCRAFT",
+    "support": 0.023157,
+    "supportPercentage": 2.32,
+    "transactionCount": 457,
+    "size": 1
+  },
+  {
+    "id": "itemset-0261",
+    "items": [
+      "KNITTED UNION FLAG HOT WATER BOTTLE"
+    ],
+    "itemsetString": "KNITTED UNION FLAG HOT WATER BOTTLE",
+    "support": 0.023157,
+    "supportPercentage": 2.32,
+    "transactionCount": 457,
+    "size": 1
+  },
+  {
+    "id": "itemset-0262",
+    "items": [
+      "PICNIC BASKET WICKER SMALL"
+    ],
+    "itemsetString": "PICNIC BASKET WICKER SMALL",
+    "support": 0.023106,
+    "supportPercentage": 2.31,
+    "transactionCount": 456,
+    "size": 1
+  },
+  {
+    "id": "itemset-0263",
+    "items": [
+      "ALARM CLOCK BAKELIKE PINK",
+      "ALARM CLOCK BAKELIKE RED"
+    ],
+    "itemsetString": "ALARM CLOCK BAKELIKE PINK, ALARM CLOCK BAKELIKE RED",
+    "support": 0.023005,
+    "supportPercentage": 2.3,
+    "transactionCount": 454,
+    "size": 2
+  },
+  {
+    "id": "itemset-0264",
+    "items": [
+      "LUNCH BAG SPACEBOY DESIGN",
+      "LUNCH BAG SUKI DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG SPACEBOY DESIGN, LUNCH BAG SUKI DESIGN",
+    "support": 0.022954,
+    "supportPercentage": 2.3,
+    "transactionCount": 453,
+    "size": 2
+  },
+  {
+    "id": "itemset-0265",
+    "items": [
+      "BAKING SET SPACEBOY DESIGN"
+    ],
+    "itemsetString": "BAKING SET SPACEBOY DESIGN",
+    "support": 0.022903,
+    "supportPercentage": 2.29,
+    "transactionCount": 452,
+    "size": 1
+  },
+  {
+    "id": "itemset-0266",
+    "items": [
+      "CHARLOTTE BAG SUKI DESIGN",
+      "WOODLAND CHARLOTTE BAG"
+    ],
+    "itemsetString": "CHARLOTTE BAG SUKI DESIGN, WOODLAND CHARLOTTE BAG",
+    "support": 0.022903,
+    "supportPercentage": 2.29,
+    "transactionCount": 452,
+    "size": 2
+  },
+  {
+    "id": "itemset-0267",
+    "items": [
+      "JAM MAKING SET PRINTED",
+      "JAM MAKING SET WITH JARS"
+    ],
+    "itemsetString": "JAM MAKING SET PRINTED, JAM MAKING SET WITH JARS",
+    "support": 0.022903,
+    "supportPercentage": 2.29,
+    "transactionCount": 452,
+    "size": 2
+  },
+  {
+    "id": "itemset-0268",
+    "items": [
+      "TRAVEL SEWING KIT"
+    ],
+    "itemsetString": "TRAVEL SEWING KIT",
+    "support": 0.022853,
+    "supportPercentage": 2.29,
+    "transactionCount": 451,
+    "size": 1
+  },
+  {
+    "id": "itemset-0269",
+    "items": [
+      "RECIPE BOX RETROSPOT"
+    ],
+    "itemsetString": "RECIPE BOX RETROSPOT",
+    "support": 0.022802,
+    "supportPercentage": 2.28,
+    "transactionCount": 450,
+    "size": 1
+  },
+  {
+    "id": "itemset-0270",
+    "items": [
+      "MEMO BOARD RETROSPOT  DESIGN"
+    ],
+    "itemsetString": "MEMO BOARD RETROSPOT  DESIGN",
+    "support": 0.022751,
+    "supportPercentage": 2.28,
+    "transactionCount": 449,
+    "size": 1
+  },
+  {
+    "id": "itemset-0271",
+    "items": [
+      "SET OF TEA COFFEE SUGAR TINS PANTRY"
+    ],
+    "itemsetString": "SET OF TEA COFFEE SUGAR TINS PANTRY",
+    "support": 0.022751,
+    "supportPercentage": 2.28,
+    "transactionCount": 449,
+    "size": 1
+  },
+  {
+    "id": "itemset-0272",
+    "items": [
+      "JUMBO BAG WOODLAND ANIMALS",
+      "JUMBO STORAGE BAG SUKI"
+    ],
+    "itemsetString": "JUMBO BAG WOODLAND ANIMALS, JUMBO STORAGE BAG SUKI",
+    "support": 0.022701,
+    "supportPercentage": 2.27,
+    "transactionCount": 448,
+    "size": 2
+  },
+  {
+    "id": "itemset-0273",
+    "items": [
+      "ZINC FOLKART SLEIGH BELLS"
+    ],
+    "itemsetString": "ZINC FOLKART SLEIGH BELLS",
+    "support": 0.02265,
+    "supportPercentage": 2.27,
+    "transactionCount": 447,
+    "size": 1
+  },
+  {
+    "id": "itemset-0274",
+    "items": [
+      "JUMBO BAG DOLLY GIRL DESIGN"
+    ],
+    "itemsetString": "JUMBO BAG DOLLY GIRL DESIGN",
+    "support": 0.022599,
+    "supportPercentage": 2.26,
+    "transactionCount": 446,
+    "size": 1
+  },
+  {
+    "id": "itemset-0275",
+    "items": [
+      "SCANDINAVIAN REDS RIBBONS"
+    ],
+    "itemsetString": "SCANDINAVIAN REDS RIBBONS",
+    "support": 0.022549,
+    "supportPercentage": 2.25,
+    "transactionCount": 445,
+    "size": 1
+  },
+  {
+    "id": "itemset-0276",
+    "items": [
+      "LUNCH BAG APPLE DESIGN",
+      "LUNCH BAG SUKI DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG APPLE DESIGN, LUNCH BAG SUKI DESIGN",
+    "support": 0.022549,
+    "supportPercentage": 2.25,
+    "transactionCount": 445,
+    "size": 2
+  },
+  {
+    "id": "itemset-0277",
+    "items": [
+      "RED RETROSPOT OVEN GLOVE"
+    ],
+    "itemsetString": "RED RETROSPOT OVEN GLOVE",
+    "support": 0.022498,
+    "supportPercentage": 2.25,
+    "transactionCount": 444,
+    "size": 1
+  },
+  {
+    "id": "itemset-0278",
+    "items": [
+      "SMALL MARSHMALLOWS PINK BOWL"
+    ],
+    "itemsetString": "SMALL MARSHMALLOWS PINK BOWL",
+    "support": 0.022498,
+    "supportPercentage": 2.25,
+    "transactionCount": 444,
+    "size": 1
+  },
+  {
+    "id": "itemset-0279",
+    "items": [
+      "CHRISTMAS CRAFT TREE TOP ANGEL"
+    ],
+    "itemsetString": "CHRISTMAS CRAFT TREE TOP ANGEL",
+    "support": 0.022447,
+    "supportPercentage": 2.24,
+    "transactionCount": 443,
+    "size": 1
+  },
+  {
+    "id": "itemset-0280",
+    "items": [
+      "RED RETROSPOT BOWL"
+    ],
+    "itemsetString": "RED RETROSPOT BOWL",
+    "support": 0.022447,
+    "supportPercentage": 2.24,
+    "transactionCount": 443,
+    "size": 1
+  },
+  {
+    "id": "itemset-0281",
+    "items": [
+      "SET OF 72 RETROSPOT PAPER  DOILIES"
+    ],
+    "itemsetString": "SET OF 72 RETROSPOT PAPER  DOILIES",
+    "support": 0.022447,
+    "supportPercentage": 2.24,
+    "transactionCount": 443,
+    "size": 1
+  },
+  {
+    "id": "itemset-0282",
+    "items": [
+      "JUMBO BAG RED RETROSPOT",
+      "JUMBO BAG SCANDINAVIAN BLUE PAISLEY"
+    ],
+    "itemsetString": "JUMBO BAG RED RETROSPOT, JUMBO BAG SCANDINAVIAN BLUE PAISLEY",
+    "support": 0.022447,
+    "supportPercentage": 2.24,
+    "transactionCount": 443,
+    "size": 2
+  },
+  {
+    "id": "itemset-0283",
+    "items": [
+      "BEWARE OF THE CAT METAL SIGN"
+    ],
+    "itemsetString": "BEWARE OF THE CAT METAL SIGN",
+    "support": 0.022397,
+    "supportPercentage": 2.24,
+    "transactionCount": 442,
+    "size": 1
+  },
+  {
+    "id": "itemset-0284",
+    "items": [
+      "RED DINER WALL CLOCK"
+    ],
+    "itemsetString": "RED DINER WALL CLOCK",
+    "support": 0.022397,
+    "supportPercentage": 2.24,
+    "transactionCount": 442,
+    "size": 1
+  },
+  {
+    "id": "itemset-0285",
+    "items": [
+      "SET OF 6 SOLDIER SKITTLES"
+    ],
+    "itemsetString": "SET OF 6 SOLDIER SKITTLES",
+    "support": 0.022397,
+    "supportPercentage": 2.24,
+    "transactionCount": 442,
+    "size": 1
+  },
+  {
+    "id": "itemset-0286",
+    "items": [
+      "JUMBO BAG RED RETROSPOT",
+      "WHITE HANGING HEART T-LIGHT HOLDER"
+    ],
+    "itemsetString": "JUMBO BAG RED RETROSPOT, WHITE HANGING HEART T-LIGHT HOLDER",
+    "support": 0.022397,
+    "supportPercentage": 2.24,
+    "transactionCount": 442,
+    "size": 2
+  },
+  {
+    "id": "itemset-0287",
+    "items": [
+      "ROTATING SILVER ANGELS T-LIGHT HLDR"
+    ],
+    "itemsetString": "ROTATING SILVER ANGELS T-LIGHT HLDR",
+    "support": 0.022295,
+    "supportPercentage": 2.23,
+    "transactionCount": 440,
+    "size": 1
+  },
+  {
+    "id": "itemset-0288",
+    "items": [
+      "LUNCH BAG  BLACK SKULL.",
+      "LUNCH BAG WOODLAND"
+    ],
+    "itemsetString": "LUNCH BAG  BLACK SKULL., LUNCH BAG WOODLAND",
+    "support": 0.022295,
+    "supportPercentage": 2.23,
+    "transactionCount": 440,
+    "size": 2
+  },
+  {
+    "id": "itemset-0289",
+    "items": [
+      "CHARLOTTE BAG VINTAGE ALPHABET"
+    ],
+    "itemsetString": "CHARLOTTE BAG VINTAGE ALPHABET",
+    "support": 0.022245,
+    "supportPercentage": 2.22,
+    "transactionCount": 439,
+    "size": 1
+  },
+  {
+    "id": "itemset-0290",
+    "items": [
+      "SET OF 3 WOODEN HEART DECORATIONS"
+    ],
+    "itemsetString": "SET OF 3 WOODEN HEART DECORATIONS",
+    "support": 0.022245,
+    "supportPercentage": 2.22,
+    "transactionCount": 439,
+    "size": 1
+  },
+  {
+    "id": "itemset-0291",
+    "items": [
+      "LUNCH BAG CARS BLUE",
+      "LUNCH BAG WOODLAND"
+    ],
+    "itemsetString": "LUNCH BAG CARS BLUE, LUNCH BAG WOODLAND",
+    "support": 0.022245,
+    "supportPercentage": 2.22,
+    "transactionCount": 439,
+    "size": 2
+  },
+  {
+    "id": "itemset-0292",
+    "items": [
+      "ENAMEL BREAD BIN CREAM"
+    ],
+    "itemsetString": "ENAMEL BREAD BIN CREAM",
+    "support": 0.022194,
+    "supportPercentage": 2.22,
+    "transactionCount": 438,
+    "size": 1
+  },
+  {
+    "id": "itemset-0293",
+    "items": [
+      "YOU'RE CONFUSING ME METAL SIGN"
+    ],
+    "itemsetString": "YOU'RE CONFUSING ME METAL SIGN",
+    "support": 0.022194,
+    "supportPercentage": 2.22,
+    "transactionCount": 438,
+    "size": 1
+  },
+  {
+    "id": "itemset-0294",
+    "items": [
+      "CARD BILLBOARD FONT"
+    ],
+    "itemsetString": "CARD BILLBOARD FONT",
+    "support": 0.022143,
+    "supportPercentage": 2.21,
+    "transactionCount": 437,
+    "size": 1
+  },
+  {
+    "id": "itemset-0295",
+    "items": [
+      "FELTCRAFT PRINCESS CHARLOTTE DOLL"
+    ],
+    "itemsetString": "FELTCRAFT PRINCESS CHARLOTTE DOLL",
+    "support": 0.022093,
+    "supportPercentage": 2.21,
+    "transactionCount": 436,
+    "size": 1
+  },
+  {
+    "id": "itemset-0296",
+    "items": [
+      "PICNIC BASKET WICKER LARGE"
+    ],
+    "itemsetString": "PICNIC BASKET WICKER LARGE",
+    "support": 0.022093,
+    "supportPercentage": 2.21,
+    "transactionCount": 436,
+    "size": 1
+  },
+  {
+    "id": "itemset-0297",
+    "items": [
+      "SCANDINAVIAN PAISLEY PICNIC BAG"
+    ],
+    "itemsetString": "SCANDINAVIAN PAISLEY PICNIC BAG",
+    "support": 0.022093,
+    "supportPercentage": 2.21,
+    "transactionCount": 436,
+    "size": 1
+  },
+  {
+    "id": "itemset-0298",
+    "items": [
+      "ALARM CLOCK BAKELIKE ORANGE"
+    ],
+    "itemsetString": "ALARM CLOCK BAKELIKE ORANGE",
+    "support": 0.022042,
+    "supportPercentage": 2.2,
+    "transactionCount": 435,
+    "size": 1
+  },
+  {
+    "id": "itemset-0299",
+    "items": [
+      "SET OF 12 MINI LOAF BAKING CASES"
+    ],
+    "itemsetString": "SET OF 12 MINI LOAF BAKING CASES",
+    "support": 0.022042,
+    "supportPercentage": 2.2,
+    "transactionCount": 435,
+    "size": 1
+  },
+  {
+    "id": "itemset-0300",
+    "items": [
+      "60 TEATIME FAIRY CAKE CASES",
+      "PACK OF 72 RETROSPOT CAKE CASES"
+    ],
+    "itemsetString": "60 TEATIME FAIRY CAKE CASES, PACK OF 72 RETROSPOT CAKE CASES",
+    "support": 0.022042,
+    "supportPercentage": 2.2,
+    "transactionCount": 435,
+    "size": 2
+  },
+  {
+    "id": "itemset-0301",
+    "items": [
+      "AREA PATROLLED METAL SIGN"
+    ],
+    "itemsetString": "AREA PATROLLED METAL SIGN",
+    "support": 0.021991,
+    "supportPercentage": 2.2,
+    "transactionCount": 434,
+    "size": 1
+  },
+  {
+    "id": "itemset-0302",
+    "items": [
+      "DOORMAT WELCOME TO OUR HOME"
+    ],
+    "itemsetString": "DOORMAT WELCOME TO OUR HOME",
+    "support": 0.021991,
+    "supportPercentage": 2.2,
+    "transactionCount": 434,
+    "size": 1
+  },
+  {
+    "id": "itemset-0303",
+    "items": [
+      "PAPER CHAIN KIT EMPIRE"
+    ],
+    "itemsetString": "PAPER CHAIN KIT EMPIRE",
+    "support": 0.021991,
+    "supportPercentage": 2.2,
+    "transactionCount": 434,
+    "size": 1
+  },
+  {
+    "id": "itemset-0304",
+    "items": [
+      "VINTAGE PAISLEY STATIONERY SET"
+    ],
+    "itemsetString": "VINTAGE PAISLEY STATIONERY SET",
+    "support": 0.021991,
+    "supportPercentage": 2.2,
+    "transactionCount": 434,
+    "size": 1
+  },
+  {
+    "id": "itemset-0305",
+    "items": [
+      "CLEAR DRAWER KNOB ACRYLIC EDWARDIAN"
+    ],
+    "itemsetString": "CLEAR DRAWER KNOB ACRYLIC EDWARDIAN",
+    "support": 0.02189,
+    "supportPercentage": 2.19,
+    "transactionCount": 432,
+    "size": 1
+  },
+  {
+    "id": "itemset-0306",
+    "items": [
+      "PACK OF 12 TRADITIONAL CRAYONS"
+    ],
+    "itemsetString": "PACK OF 12 TRADITIONAL CRAYONS",
+    "support": 0.021789,
+    "supportPercentage": 2.18,
+    "transactionCount": 430,
+    "size": 1
+  },
+  {
+    "id": "itemset-0307",
+    "items": [
+      "TOILET SIGN OCCUPIED OR VACANT"
+    ],
+    "itemsetString": "TOILET SIGN OCCUPIED OR VACANT",
+    "support": 0.021789,
+    "supportPercentage": 2.18,
+    "transactionCount": 430,
+    "size": 1
+  },
+  {
+    "id": "itemset-0308",
+    "items": [
+      "JUMBO BAG PINK POLKADOT",
+      "JUMBO BAG WOODLAND ANIMALS"
+    ],
+    "itemsetString": "JUMBO BAG PINK POLKADOT, JUMBO BAG WOODLAND ANIMALS",
+    "support": 0.021637,
+    "supportPercentage": 2.16,
+    "transactionCount": 427,
+    "size": 2
+  },
+  {
+    "id": "itemset-0309",
+    "items": [
+      "JUMBO BAG RED RETROSPOT",
+      "JUMBO BAG SPACEBOY DESIGN"
+    ],
+    "itemsetString": "JUMBO BAG RED RETROSPOT, JUMBO BAG SPACEBOY DESIGN",
+    "support": 0.021586,
+    "supportPercentage": 2.16,
+    "transactionCount": 426,
+    "size": 2
+  },
+  {
+    "id": "itemset-0310",
+    "items": [
+      "POPPY'S PLAYHOUSE KITCHEN"
+    ],
+    "itemsetString": "POPPY'S PLAYHOUSE KITCHEN",
+    "support": 0.021535,
+    "supportPercentage": 2.15,
+    "transactionCount": 425,
+    "size": 1
+  },
+  {
+    "id": "itemset-0311",
+    "items": [
+      "JUMBO BAG RED RETROSPOT",
+      "RED RETROSPOT CHARLOTTE BAG"
+    ],
+    "itemsetString": "JUMBO BAG RED RETROSPOT, RED RETROSPOT CHARLOTTE BAG",
+    "support": 0.021535,
+    "supportPercentage": 2.15,
+    "transactionCount": 425,
+    "size": 2
+  },
+  {
+    "id": "itemset-0312",
+    "items": [
+      "LUNCH BAG PINK POLKADOT",
+      "LUNCH BAG SPACEBOY DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG PINK POLKADOT, LUNCH BAG SPACEBOY DESIGN",
+    "support": 0.021485,
+    "supportPercentage": 2.15,
+    "transactionCount": 424,
+    "size": 2
+  },
+  {
+    "id": "itemset-0313",
+    "items": [
+      "RED STRIPE CERAMIC DRAWER KNOB"
+    ],
+    "itemsetString": "RED STRIPE CERAMIC DRAWER KNOB",
+    "support": 0.021383,
+    "supportPercentage": 2.14,
+    "transactionCount": 422,
+    "size": 1
+  },
+  {
+    "id": "itemset-0314",
+    "items": [
+      "RED WOOLLY HOTTIE WHITE HEART."
+    ],
+    "itemsetString": "RED WOOLLY HOTTIE WHITE HEART.",
+    "support": 0.021383,
+    "supportPercentage": 2.14,
+    "transactionCount": 422,
+    "size": 1
+  },
+  {
+    "id": "itemset-0315",
+    "items": [
+      "PACK OF 12 HEARTS DESIGN TISSUES"
+    ],
+    "itemsetString": "PACK OF 12 HEARTS DESIGN TISSUES",
+    "support": 0.021333,
+    "supportPercentage": 2.13,
+    "transactionCount": 421,
+    "size": 1
+  },
+  {
+    "id": "itemset-0316",
+    "items": [
+      "JUMBO  BAG BAROQUE BLACK WHITE",
+      "JUMBO STORAGE BAG SUKI"
+    ],
+    "itemsetString": "JUMBO  BAG BAROQUE BLACK WHITE, JUMBO STORAGE BAG SUKI",
+    "support": 0.021333,
+    "supportPercentage": 2.13,
+    "transactionCount": 421,
+    "size": 2
+  },
+  {
+    "id": "itemset-0317",
+    "items": [
+      "FLORAL FOLK STATIONERY SET"
+    ],
+    "itemsetString": "FLORAL FOLK STATIONERY SET",
+    "support": 0.021282,
+    "supportPercentage": 2.13,
+    "transactionCount": 420,
+    "size": 1
+  },
+  {
+    "id": "itemset-0318",
+    "items": [
+      "SET/6 RED SPOTTY PAPER CUPS"
+    ],
+    "itemsetString": "SET/6 RED SPOTTY PAPER CUPS",
+    "support": 0.021282,
+    "supportPercentage": 2.13,
+    "transactionCount": 420,
+    "size": 1
+  },
+  {
+    "id": "itemset-0319",
+    "items": [
+      "JUMBO  BAG BAROQUE BLACK WHITE",
+      "JUMBO SHOPPER VINTAGE RED PAISLEY"
+    ],
+    "itemsetString": "JUMBO  BAG BAROQUE BLACK WHITE, JUMBO SHOPPER VINTAGE RED PAISLEY",
+    "support": 0.021282,
+    "supportPercentage": 2.13,
+    "transactionCount": 420,
+    "size": 2
+  },
+  {
+    "id": "itemset-0320",
+    "items": [
+      "JUMBO BAG RED RETROSPOT",
+      "JUMBO BAG VINTAGE LEAF"
+    ],
+    "itemsetString": "JUMBO BAG RED RETROSPOT, JUMBO BAG VINTAGE LEAF",
+    "support": 0.021282,
+    "supportPercentage": 2.13,
+    "transactionCount": 420,
+    "size": 2
+  },
+  {
+    "id": "itemset-0321",
+    "items": [
+      "SET 3 RETROSPOT TEA,COFFEE,SUGAR"
+    ],
+    "itemsetString": "SET 3 RETROSPOT TEA,COFFEE,SUGAR",
+    "support": 0.021231,
+    "supportPercentage": 2.12,
+    "transactionCount": 419,
+    "size": 1
+  },
+  {
+    "id": "itemset-0322",
+    "items": [
+      "SOLDIERS EGG CUP"
+    ],
+    "itemsetString": "SOLDIERS EGG CUP",
+    "support": 0.021181,
+    "supportPercentage": 2.12,
+    "transactionCount": 418,
+    "size": 1
+  },
+  {
+    "id": "itemset-0323",
+    "items": [
+      "TRADITIONAL WOODEN SKIPPING ROPE"
+    ],
+    "itemsetString": "TRADITIONAL WOODEN SKIPPING ROPE",
+    "support": 0.021181,
+    "supportPercentage": 2.12,
+    "transactionCount": 418,
+    "size": 1
+  },
+  {
+    "id": "itemset-0324",
+    "items": [
+      "60 CAKE CASES DOLLY GIRL DESIGN"
+    ],
+    "itemsetString": "60 CAKE CASES DOLLY GIRL DESIGN",
+    "support": 0.02113,
+    "supportPercentage": 2.11,
+    "transactionCount": 417,
+    "size": 1
+  },
+  {
+    "id": "itemset-0325",
+    "items": [
+      "ALARM CLOCK BAKELIKE CHOCOLATE"
+    ],
+    "itemsetString": "ALARM CLOCK BAKELIKE CHOCOLATE",
+    "support": 0.02113,
+    "supportPercentage": 2.11,
+    "transactionCount": 417,
+    "size": 1
+  },
+  {
+    "id": "itemset-0326",
+    "items": [
+      "BLUE STRIPE CERAMIC DRAWER KNOB"
+    ],
+    "itemsetString": "BLUE STRIPE CERAMIC DRAWER KNOB",
+    "support": 0.02113,
+    "supportPercentage": 2.11,
+    "transactionCount": 417,
+    "size": 1
+  },
+  {
+    "id": "itemset-0327",
+    "items": [
+      "WHITE WOOD GARDEN PLANT LADDER"
+    ],
+    "itemsetString": "WHITE WOOD GARDEN PLANT LADDER",
+    "support": 0.02113,
+    "supportPercentage": 2.11,
+    "transactionCount": 417,
+    "size": 1
+  },
+  {
+    "id": "itemset-0328",
+    "items": [
+      "PACK OF 60 PINK PAISLEY CAKE CASES",
+      "PACK OF 72 RETROSPOT CAKE CASES"
+    ],
+    "itemsetString": "PACK OF 60 PINK PAISLEY CAKE CASES, PACK OF 72 RETROSPOT CAKE CASES",
+    "support": 0.02113,
+    "supportPercentage": 2.11,
+    "transactionCount": 417,
+    "size": 2
+  },
+  {
+    "id": "itemset-0329",
+    "items": [
+      "REGENCY TEA PLATE ROSES"
+    ],
+    "itemsetString": "REGENCY TEA PLATE ROSES",
+    "support": 0.021079,
+    "supportPercentage": 2.11,
+    "transactionCount": 416,
+    "size": 1
+  },
+  {
+    "id": "itemset-0330",
+    "items": [
+      "SET OF 6 RIBBONS VINTAGE CHRISTMAS"
+    ],
+    "itemsetString": "SET OF 6 RIBBONS VINTAGE CHRISTMAS",
+    "support": 0.021029,
+    "supportPercentage": 2.1,
+    "transactionCount": 415,
+    "size": 1
+  },
+  {
+    "id": "itemset-0331",
+    "items": [
+      "JUMBO BAG PINK VINTAGE PAISLEY",
+      "JUMBO SHOPPER VINTAGE RED PAISLEY"
+    ],
+    "itemsetString": "JUMBO BAG PINK VINTAGE PAISLEY, JUMBO SHOPPER VINTAGE RED PAISLEY",
+    "support": 0.021029,
+    "supportPercentage": 2.1,
+    "transactionCount": 415,
+    "size": 2
+  },
+  {
+    "id": "itemset-0332",
+    "items": [
+      "SET OF 3 NOTEBOOKS IN PARCEL"
+    ],
+    "itemsetString": "SET OF 3 NOTEBOOKS IN PARCEL",
+    "support": 0.020978,
+    "supportPercentage": 2.1,
+    "transactionCount": 414,
+    "size": 1
+  },
+  {
+    "id": "itemset-0333",
+    "items": [
+      "JUMBO BAG RED RETROSPOT",
+      "RECYCLING BAG RETROSPOT"
+    ],
+    "itemsetString": "JUMBO BAG RED RETROSPOT, RECYCLING BAG RETROSPOT",
+    "support": 0.020978,
+    "supportPercentage": 2.1,
+    "transactionCount": 414,
+    "size": 2
+  },
+  {
+    "id": "itemset-0334",
+    "items": [
+      "POPPY'S PLAYHOUSE BEDROOM"
+    ],
+    "itemsetString": "POPPY'S PLAYHOUSE BEDROOM",
+    "support": 0.020927,
+    "supportPercentage": 2.09,
+    "transactionCount": 413,
+    "size": 1
+  },
+  {
+    "id": "itemset-0335",
+    "items": [
+      "WOODEN SCHOOL COLOURING SET"
+    ],
+    "itemsetString": "WOODEN SCHOOL COLOURING SET",
+    "support": 0.020927,
+    "supportPercentage": 2.09,
+    "transactionCount": 413,
+    "size": 1
+  },
+  {
+    "id": "itemset-0336",
+    "items": [
+      "JUMBO BAG RED RETROSPOT",
+      "JUMBO STORAGE BAG SKULLS"
+    ],
+    "itemsetString": "JUMBO BAG RED RETROSPOT, JUMBO STORAGE BAG SKULLS",
+    "support": 0.020927,
+    "supportPercentage": 2.09,
+    "transactionCount": 413,
+    "size": 2
+  },
+  {
+    "id": "itemset-0337",
+    "items": [
+      "LUNCH BAG PINK POLKADOT",
+      "LUNCH BAG SUKI DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG PINK POLKADOT, LUNCH BAG SUKI DESIGN",
+    "support": 0.020927,
+    "supportPercentage": 2.09,
+    "transactionCount": 413,
+    "size": 2
+  },
+  {
+    "id": "itemset-0338",
+    "items": [
+      "CHARLOTTE BAG DOLLY GIRL DESIGN"
+    ],
+    "itemsetString": "CHARLOTTE BAG DOLLY GIRL DESIGN",
+    "support": 0.020877,
+    "supportPercentage": 2.09,
+    "transactionCount": 412,
+    "size": 1
+  },
+  {
+    "id": "itemset-0339",
+    "items": [
+      "CHARLOTTE BAG SUKI DESIGN",
+      "STRAWBERRY CHARLOTTE BAG"
+    ],
+    "itemsetString": "CHARLOTTE BAG SUKI DESIGN, STRAWBERRY CHARLOTTE BAG",
+    "support": 0.020877,
+    "supportPercentage": 2.09,
+    "transactionCount": 412,
+    "size": 2
+  },
+  {
+    "id": "itemset-0340",
+    "items": [
+      "JUMBO  BAG BAROQUE BLACK WHITE",
+      "JUMBO BAG PINK POLKADOT"
+    ],
+    "itemsetString": "JUMBO  BAG BAROQUE BLACK WHITE, JUMBO BAG PINK POLKADOT",
+    "support": 0.020877,
+    "supportPercentage": 2.09,
+    "transactionCount": 412,
+    "size": 2
+  },
+  {
+    "id": "itemset-0341",
+    "items": [
+      "JUMBO BAG PINK POLKADOT",
+      "JUMBO BAG RED RETROSPOT",
+      "JUMBO STORAGE BAG SUKI"
+    ],
+    "itemsetString": "JUMBO BAG PINK POLKADOT, JUMBO BAG RED RETROSPOT, JUMBO STORAGE BAG SUKI",
+    "support": 0.020877,
+    "supportPercentage": 2.09,
+    "transactionCount": 412,
+    "size": 3
+  },
+  {
+    "id": "itemset-0342",
+    "items": [
+      "VINTAGE CREAM DOG FOOD CONTAINER"
+    ],
+    "itemsetString": "VINTAGE CREAM DOG FOOD CONTAINER",
+    "support": 0.020826,
+    "supportPercentage": 2.08,
+    "transactionCount": 411,
+    "size": 1
+  },
+  {
+    "id": "itemset-0343",
+    "items": [
+      "VINTAGE DOILY TRAVEL SEWING KIT"
+    ],
+    "itemsetString": "VINTAGE DOILY TRAVEL SEWING KIT",
+    "support": 0.020826,
+    "supportPercentage": 2.08,
+    "transactionCount": 411,
+    "size": 1
+  },
+  {
+    "id": "itemset-0344",
+    "items": [
+      "ALARM CLOCK BAKELIKE GREEN",
+      "ALARM CLOCK BAKELIKE PINK"
+    ],
+    "itemsetString": "ALARM CLOCK BAKELIKE GREEN, ALARM CLOCK BAKELIKE PINK",
+    "support": 0.020826,
+    "supportPercentage": 2.08,
+    "transactionCount": 411,
+    "size": 2
+  },
+  {
+    "id": "itemset-0345",
+    "items": [
+      "JUMBO BAG ALPHABET",
+      "JUMBO BAG RED RETROSPOT"
+    ],
+    "itemsetString": "JUMBO BAG ALPHABET, JUMBO BAG RED RETROSPOT",
+    "support": 0.020826,
+    "supportPercentage": 2.08,
+    "transactionCount": 411,
+    "size": 2
+  },
+  {
+    "id": "itemset-0346",
+    "items": [
+      "LUNCH BAG  BLACK SKULL.",
+      "LUNCH BAG APPLE DESIGN"
+    ],
+    "itemsetString": "LUNCH BAG  BLACK SKULL., LUNCH BAG APPLE DESIGN",
+    "support": 0.020826,
+    "supportPercentage": 2.08,
+    "transactionCount": 411,
+    "size": 2
+  },
+  {
+    "id": "itemset-0347",
+    "items": [
+      "NATURAL SLATE HEART CHALKBOARD",
+      "WHITE HANGING HEART T-LIGHT HOLDER"
+    ],
+    "itemsetString": "NATURAL SLATE HEART CHALKBOARD, WHITE HANGING HEART T-LIGHT HOLDER",
+    "support": 0.020826,
+    "supportPercentage": 2.08,
+    "transactionCount": 411,
+    "size": 2
+  },
+  {
+    "id": "itemset-0348",
+    "items": [
+      "SKULL LUNCH BOX WITH CUTLERY"
+    ],
+    "itemsetString": "SKULL LUNCH BOX WITH CUTLERY",
+    "support": 0.020775,
+    "supportPercentage": 2.08,
+    "transactionCount": 410,
+    "size": 1
+  },
+  {
+    "id": "itemset-0349",
+    "items": [
+      "SKULL SHOULDER BAG"
+    ],
+    "itemsetString": "SKULL SHOULDER BAG",
+    "support": 0.020775,
+    "supportPercentage": 2.08,
+    "transactionCount": 410,
+    "size": 1
+  },
+  {
+    "id": "itemset-0350",
+    "items": [
+      "CHILDRENS CUTLERY POLKADOT PINK"
+    ],
+    "itemsetString": "CHILDRENS CUTLERY POLKADOT PINK",
+    "support": 0.020725,
+    "supportPercentage": 2.07,
+    "transactionCount": 409,
+    "size": 1
+  },
+  {
+    "id": "itemset-0351",
+    "items": [
+      "NATURAL SLATE RECTANGLE CHALKBOARD"
+    ],
+    "itemsetString": "NATURAL SLATE RECTANGLE CHALKBOARD",
+    "support": 0.020725,
+    "supportPercentage": 2.07,
+    "transactionCount": 409,
+    "size": 1
+  },
+  {
+    "id": "itemset-0352",
+    "items": [
+      "TRAVEL CARD WALLET VINTAGE TICKET"
+    ],
+    "itemsetString": "TRAVEL CARD WALLET VINTAGE TICKET",
+    "support": 0.020674,
+    "supportPercentage": 2.07,
+    "transactionCount": 408,
+    "size": 1
+  },
+  {
+    "id": "itemset-0353",
+    "items": [
+      "CHARLOTTE BAG PINK POLKADOT",
+      "CHARLOTTE BAG SUKI DESIGN"
+    ],
+    "itemsetString": "CHARLOTTE BAG PINK POLKADOT, CHARLOTTE BAG SUKI DESIGN",
+    "support": 0.020674,
+    "supportPercentage": 2.07,
+    "transactionCount": 408,
+    "size": 2
+  },
+  {
+    "id": "itemset-0354",
+    "items": [
+      "SET OF 60 I LOVE LONDON CAKE CASES"
+    ],
+    "itemsetString": "SET OF 60 I LOVE LONDON CAKE CASES",
+    "support": 0.020623,
+    "supportPercentage": 2.06,
+    "transactionCount": 407,
+    "size": 1
+  },
+  {
+    "id": "itemset-0355",
+    "items": [
+      "STRAWBERRY SHOPPER BAG"
+    ],
+    "itemsetString": "STRAWBERRY SHOPPER BAG",
+    "support": 0.020623,
+    "supportPercentage": 2.06,
+    "transactionCount": 407,
+    "size": 1
+  },
+  {
+    "id": "itemset-0356",
+    "items": [
+      "WOODEN UNION JACK BUNTING"
+    ],
+    "itemsetString": "WOODEN UNION JACK BUNTING",
+    "support": 0.020623,
+    "supportPercentage": 2.06,
+    "transactionCount": 407,
+    "size": 1
+  },
+  {
+    "id": "itemset-0357",
+    "items": [
+      "RIBBON REEL STRIPES DESIGN"
+    ],
+    "itemsetString": "RIBBON REEL STRIPES DESIGN",
+    "support": 0.020522,
+    "supportPercentage": 2.05,
+    "transactionCount": 405,
+    "size": 1
+  },
+  {
+    "id": "itemset-0358",
+    "items": [
+      "WHITE HANGING HEART T-LIGHT HOLDER",
+      "WOODEN PICTURE FRAME WHITE FINISH"
+    ],
+    "itemsetString": "WHITE HANGING HEART T-LIGHT HOLDER, WOODEN PICTURE FRAME WHITE FINISH",
+    "support": 0.020522,
+    "supportPercentage": 2.05,
+    "transactionCount": 405,
+    "size": 2
+  },
+  {
+    "id": "itemset-0359",
+    "items": [
+      "PINK VINTAGE PAISLEY PICNIC BAG"
+    ],
+    "itemsetString": "PINK VINTAGE PAISLEY PICNIC BAG",
+    "support": 0.020471,
+    "supportPercentage": 2.05,
+    "transactionCount": 404,
+    "size": 1
+  },
+  {
+    "id": "itemset-0360",
+    "items": [
+      "STRAWBERRY CHARLOTTE BAG",
+      "WOODLAND CHARLOTTE BAG"
+    ],
+    "itemsetString": "STRAWBERRY CHARLOTTE BAG, WOODLAND CHARLOTTE BAG",
+    "support": 0.020471,
+    "supportPercentage": 2.05,
+    "transactionCount": 404,
+    "size": 2
+  },
+  {
+    "id": "itemset-0361",
+    "items": [
+      "FELTCRAFT PRINCESS LOLA DOLL"
+    ],
+    "itemsetString": "FELTCRAFT PRINCESS LOLA DOLL",
+    "support": 0.02037,
+    "supportPercentage": 2.04,
+    "transactionCount": 402,
+    "size": 1
+  },
+  {
+    "id": "itemset-0362",
+    "items": [
+      "IVORY DINER WALL CLOCK"
+    ],
+    "itemsetString": "IVORY DINER WALL CLOCK",
+    "support": 0.02037,
+    "supportPercentage": 2.04,
+    "transactionCount": 402,
+    "size": 1
+  },
+  {
+    "id": "itemset-0363",
+    "items": [
+      "TRADITIONAL WOODEN CATCH CUP GAME"
+    ],
+    "itemsetString": "TRADITIONAL WOODEN CATCH CUP GAME",
+    "support": 0.02037,
+    "supportPercentage": 2.04,
+    "transactionCount": 402,
+    "size": 1
+  },
+  {
+    "id": "itemset-0364",
+    "items": [
+      "SET OF 3 CAKE TINS PANTRY DESIGN",
+      "SET OF 6 SPICE TINS PANTRY DESIGN"
+    ],
+    "itemsetString": "SET OF 3 CAKE TINS PANTRY DESIGN, SET OF 6 SPICE TINS PANTRY DESIGN",
+    "support": 0.02037,
+    "supportPercentage": 2.04,
+    "transactionCount": 402,
+    "size": 2
+  },
+  {
+    "id": "itemset-0365",
+    "items": [
+      "GINGHAM HEART DECORATION"
+    ],
+    "itemsetString": "GINGHAM HEART DECORATION",
+    "support": 0.020319,
+    "supportPercentage": 2.03,
+    "transactionCount": 401,
+    "size": 1
+  },
+  {
+    "id": "itemset-0366",
+    "items": [
+      "JUMBO BAG APPLES",
+      "JUMBO BAG PEARS"
+    ],
+    "itemsetString": "JUMBO BAG APPLES, JUMBO BAG PEARS",
+    "support": 0.020319,
+    "supportPercentage": 2.03,
+    "transactionCount": 401,
+    "size": 2
+  },
+  {
+    "id": "itemset-0367",
+    "items": [
+      "TOILET METAL SIGN"
+    ],
+    "itemsetString": "TOILET METAL SIGN",
+    "support": 0.020269,
+    "supportPercentage": 2.03,
+    "transactionCount": 400,
+    "size": 1
+  },
+  {
+    "id": "itemset-0368",
+    "items": [
+      "WICKER STAR"
+    ],
+    "itemsetString": "WICKER STAR",
+    "support": 0.020269,
+    "supportPercentage": 2.03,
+    "transactionCount": 400,
+    "size": 1
+  },
+  {
+    "id": "itemset-0369",
+    "items": [
+      "DOORMAT ENGLISH ROSE"
+    ],
+    "itemsetString": "DOORMAT ENGLISH ROSE",
+    "support": 0.020218,
+    "supportPercentage": 2.02,
+    "transactionCount": 399,
+    "size": 1
+  },
+  {
+    "id": "itemset-0370",
+    "items": [
+      "METAL SIGN TAKE IT OR LEAVE IT"
+    ],
+    "itemsetString": "METAL SIGN TAKE IT OR LEAVE IT",
+    "support": 0.020218,
+    "supportPercentage": 2.02,
+    "transactionCount": 399,
+    "size": 1
+  },
+  {
+    "id": "itemset-0371",
+    "items": [
+      "CHICK GREY HOT WATER BOTTLE"
+    ],
+    "itemsetString": "CHICK GREY HOT WATER BOTTLE",
+    "support": 0.020167,
+    "supportPercentage": 2.02,
+    "transactionCount": 398,
+    "size": 1
+  },
+  {
+    "id": "itemset-0372",
+    "items": [
+      "FOUR HOOK  WHITE LOVEBIRDS"
+    ],
+    "itemsetString": "FOUR HOOK  WHITE LOVEBIRDS",
+    "support": 0.020167,
+    "supportPercentage": 2.02,
+    "transactionCount": 398,
+    "size": 1
+  },
+  {
+    "id": "itemset-0373",
+    "items": [
+      "WHITE SPOT RED CERAMIC DRAWER KNOB"
+    ],
+    "itemsetString": "WHITE SPOT RED CERAMIC DRAWER KNOB",
+    "support": 0.020167,
+    "supportPercentage": 2.02,
+    "transactionCount": 398,
+    "size": 1
+  },
+  {
+    "id": "itemset-0374",
+    "items": [
+      "BOX OF 6 MINI 50'S CRACKERS"
+    ],
+    "itemsetString": "BOX OF 6 MINI 50'S CRACKERS",
+    "support": 0.020117,
+    "supportPercentage": 2.01,
+    "transactionCount": 397,
+    "size": 1
+  },
+  {
+    "id": "itemset-0375",
+    "items": [
+      "WOOD S/3 CABINET ANT WHITE FINISH"
+    ],
+    "itemsetString": "WOOD S/3 CABINET ANT WHITE FINISH",
+    "support": 0.020117,
+    "supportPercentage": 2.01,
+    "transactionCount": 397,
+    "size": 1
+  },
+  {
+    "id": "itemset-0376",
+    "items": [
+      "SET 6 SCHOOL MILK BOTTLES IN CRATE"
+    ],
+    "itemsetString": "SET 6 SCHOOL MILK BOTTLES IN CRATE",
+    "support": 0.020015,
+    "supportPercentage": 2.0,
+    "transactionCount": 395,
+    "size": 1
+  },
+  {
+    "id": "itemset-0377",
+    "items": [
+      "VINTAGE CHRISTMAS BUNTING"
+    ],
+    "itemsetString": "VINTAGE CHRISTMAS BUNTING",
+    "support": 0.020015,
+    "supportPercentage": 2.0,
+    "transactionCount": 395,
+    "size": 1
+  },
+  {
+    "id": "itemset-0378",
+    "items": [
+      "DOTCOM POSTAGE",
+      "JUMBO STORAGE BAG SUKI"
+    ],
+    "itemsetString": "DOTCOM POSTAGE, JUMBO STORAGE BAG SUKI",
+    "support": 0.020015,
+    "supportPercentage": 2.0,
+    "transactionCount": 395,
+    "size": 2
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "keyMetrics": {
+    "highestLift": {
+      "title": "Highest Lift Rule",
+      "rule": "GREEN REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER -> PINK REGENCY TEACUP AND SAUCER",
+      "value": "18.89x",
+      "metricName": "Lift Multiplier",
+      "explanation": "Shoppers who buy 'GREEN REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER' are 18.89 times more likely to purchase 'PINK REGENCY TEACUP AND SAUCER' than a random customer.",
+      "whyItMatters": "Indicates extreme behavioral co-dependence. Customers view these products as parts of an inseparable collection.",
+      "recommendation": "Package these items as a unified gift set or premium bundle with zero cross-sell friction at checkout.",
+      "confidence": "70.45%",
+      "support": "2.61%",
+      "ruleId": "rule-001"
+    },
+    "highestConfidence": {
+      "title": "Highest Confidence Rule",
+      "rule": "PINK REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER -> GREEN REGENCY TEACUP AND SAUCER",
+      "value": "90.35%",
+      "metricName": "Conversion Confidence",
+      "explanation": "Over 90.35% of shoppers purchasing 'PINK REGENCY TEACUP AND SAUCER, ROSES REGENCY TEACUP AND SAUCER' also place 'GREEN REGENCY TEACUP AND SAUCER' in the same basket.",
+      "whyItMatters": "Extremely high predictive certainty. This is essentially an automatic complementary conversion.",
+      "recommendation": "Display '{', '.join(top_conf_rule['consequents'])}' as a 1-click add-on whenever the antecedent items are in the cart.",
+      "lift": "18.29x",
+      "support": "2.61%",
+      "ruleId": "rule-004"
+    },
+    "highestSupport": {
+      "title": "Highest Support Volume",
+      "rule": "JUMBO BAG PINK POLKADOT -> JUMBO BAG RED RETROSPOT",
+      "value": "4.15%",
+      "metricName": "Basket Penetration",
+      "explanation": "This combination appears in 819 separate transactions (4.15% of all store baskets).",
+      "whyItMatters": "Represents the highest revenue-volume pair in the entire catalog. Small improvements here yield massive bottom-line impact.",
+      "recommendation": "Feature this pairing on the home page hero and prime retail aisle displays.",
+      "lift": "6.47x",
+      "confidence": "67.63%",
+      "ruleId": "rule-046"
+    },
+    "mostFrequentProduct": {
+      "title": "Most Frequent Anchor Product",
+      "product": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "value": "11.16%",
+      "metricName": "Basket Reach",
+      "explanation": "Found in 2,202 transactions, 'WHITE HANGING HEART T-LIGHT HOLDER' is the single most common item in the entire store.",
+      "whyItMatters": "This is the primary customer acquisition and basket-starter anchor for the business.",
+      "recommendation": "Maintain guaranteed in-stock availability and use as a gateway item to cross-sell lower-velocity accessories."
+    },
+    "mostConnectedProduct": {
+      "title": "Most Connected Product Node",
+      "product": "JUMBO BAG RED RETROSPOT",
+      "value": "16 Rules",
+      "metricName": "Network Centrality",
+      "explanation": "'JUMBO BAG RED RETROSPOT' appears in 16 distinct association rules across antecedents and consequents.",
+      "whyItMatters": "Acts as the central hub of customer purchase journeys. Changes to this product's price or stock affect numerous other SKUs.",
+      "recommendation": "Treat as a strategic keystone SKU in promotional campaigns."
+    }
+  },
+  "topCategories": [
+    {
+      "name": "Vintage Regency Dining",
+      "ruleCount": 24,
+      "avgLift": 16.4,
+      "highlight": "Collectible teacups & saucers with >15x lift"
+    },
+    {
+      "name": "Storage & Bags",
+      "ruleCount": 18,
+      "avgLift": 8.2,
+      "highlight": "Jumbo bags, lunch bags, and retro tote organizers"
+    },
+    {
+      "name": "Retro Clocks & Decor",
+      "ruleCount": 8,
+      "avgLift": 12.6,
+      "highlight": "Bakelike green & red alarm clocks with 65% co-purchase"
+    },
+    {
+      "name": "Garden & Home Living",
+      "ruleCount": 6,
+      "avgLift": 14.8,
+      "highlight": "Gardeners kneeling pad matching sets"
+    },
+    {
+      "name": "Kids & Accessories",
+      "ruleCount": 3,
+      "avgLift": 14.1,
+      "highlight": "Spaceboy & Dolly Girl lunch box pairings"
+    }
+  ]
+}
